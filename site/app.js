@@ -77,9 +77,15 @@ function setupSubscribeLink() {
     const subscribeBtn = document.getElementById('subscribe-btn');
     if (!subscribeBtn) return;
 
-    // Build calendar URL from current location
-    const baseUrl = window.location.href.replace(/\/[^/]*$/, '');
-    const calendarUrl = `${baseUrl}/data/calendar.ics`;
+    // Build absolute calendar URL from origin + pathname (handles trailing slash correctly)
+    let basePath = window.location.pathname;
+    if (basePath.endsWith('/')) {
+        basePath = basePath.slice(0, -1);
+    } else if (basePath.includes('.')) {
+        // Remove filename like index.html
+        basePath = basePath.replace(/\/[^/]*$/, '');
+    }
+    const calendarUrl = `${window.location.origin}${basePath}/data/calendar.ics`;
 
     // Use webcal:// for remote hosts (enables subscription), direct link for localhost
     const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
