@@ -6,6 +6,11 @@ data/scrape.log
 *.tmp
 .DS_Store
 
+# Cache
+.cache/
+__pycache__/
+*.pyc
+
 # Editor
 .vscode/
 .idea/

@@ -11,7 +11,8 @@ PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 DATA_DIR="$PROJECT_DIR/site/data"
 DATA_FILE="$DATA_DIR/events.json"
 CALENDAR_FILE="$DATA_DIR/calendar.ics"
-PROMPT_FILE="$SCRIPT_DIR/scrape-prompt.md"
+# Legacy prompt file kept for reference
+# PROMPT_FILE="$SCRIPT_DIR/scrape-prompt.md"
 LOG_FILE="$PROJECT_DIR/logs/scrape.log"
 LOCK_FILE="$PROJECT_DIR/.update.lock"
 
@@ -35,10 +36,10 @@ cd "$PROJECT_DIR"
 
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Starting scrape" >> "$LOG_FILE"
 
-# Run Claude with the scrape prompt
-echo "Running Claude scraper..."
-if ! claude -p "$(cat "$PROMPT_FILE")" --print --output-format json > "$DATA_FILE.tmp" 2>> "$LOG_FILE"; then
-    echo "$(date '+%Y-%m-%d %H:%M:%S') - Claude failed" >> "$LOG_FILE"
+# Run the scraper (uses caching - only invokes Claude for stale sources)
+echo "Running scraper..."
+if ! python3 "$SCRIPT_DIR/scrape.py" -o "$DATA_FILE.tmp" 2>> "$LOG_FILE"; then
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - Scraper failed" >> "$LOG_FILE"
     rm -f "$DATA_FILE.tmp"
     exit 1
 fi
