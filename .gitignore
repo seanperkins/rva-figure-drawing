@@ -1,0 +1,13 @@
+# Logs
+data/scrape.log
+*.log
+
+# Temp files
+*.tmp
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~

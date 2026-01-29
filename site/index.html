@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RVA Figure Drawing Calendar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>RVA Figure Drawing</h1>
+        <p class="subtitle">Figure drawing sessions in Richmond, VA</p>
+    </header>
+
+    <main>
+        <section class="filters">
+            <div class="filter-group">
+                <label for="filter-cost">Cost</label>
+                <select id="filter-cost">
+                    <option value="all">All</option>
+                    <option value="free">Free</option>
+                    <option value="paid">Paid</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filter-type">Type</label>
+                <select id="filter-type">
+                    <option value="all">All</option>
+                    <option value="open-session">Open Session</option>
+                    <option value="instructed">Instructed</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filter-location">Location</label>
+                <select id="filter-location">
+                    <option value="all">All Locations</option>
+                </select>
+            </div>
+        </section>
+
+        <section class="view-toggle">
+            <button id="view-list" class="active">List</button>
+            <button id="view-calendar">Calendar</button>
+        </section>
+
+        <section id="events-list" class="events-container">
+            <p class="loading">Loading events...</p>
+        </section>
+
+        <section id="events-calendar" class="events-container hidden">
+            <div class="calendar-nav">
+                <button id="cal-prev">&larr;</button>
+                <span id="cal-month"></span>
+                <button id="cal-next">&rarr;</button>
+            </div>
+            <div class="calendar-grid">
+                <div class="cal-header">Sun</div>
+                <div class="cal-header">Mon</div>
+                <div class="cal-header">Tue</div>
+                <div class="cal-header">Wed</div>
+                <div class="cal-header">Thu</div>
+                <div class="cal-header">Fri</div>
+                <div class="cal-header">Sat</div>
+            </div>
+            <div id="cal-days" class="calendar-days"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Last updated: <span id="last-updated">—</span></p>
+        <p class="sources">
+            Sources:
+            <a href="https://www.visarts.org" target="_blank">VisArts</a> ·
+            <a href="https://www.studiotwothree.org" target="_blank">Studio Two Three</a> ·
+            <a href="https://www.artspacegallery.org" target="_blank">Artspace</a> ·
+            <a href="https://vmfa.museum/studio-school/" target="_blank">VMFA</a>
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
