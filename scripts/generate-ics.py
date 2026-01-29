@@ -62,6 +62,12 @@ def generate_vevent(event):
     return "\r\n".join(lines)
 
 
+def get_future_events(events_data):
+    """Filter events to only include today and future dates."""
+    today = datetime.now().strftime("%Y-%m-%d")
+    return [e for e in events_data.get("events", []) if e.get("date", "") >= today]
+
+
 def generate_ics(events_data):
     """Generate full ICS calendar content."""
     header = [
@@ -77,9 +83,7 @@ def generate_ics(events_data):
 
     footer = ["END:VCALENDAR"]
 
-    today = datetime.now().strftime("%Y-%m-%d")
-    future_events = [e for e in events_data.get("events", []) if e.get("date", "") >= today]
-
+    future_events = get_future_events(events_data)
     vevents = [generate_vevent(event) for event in future_events]
 
     return "\r\n".join(header + vevents + footer)
@@ -97,15 +101,15 @@ def main():
         print(f"Error: {events_path} not found")
         sys.exit(1)
 
-    with open(events_path, "r") as f:
+    with open(events_path, "r", encoding="utf-8") as f:
         events_data = json.load(f)
 
     ics_content = generate_ics(events_data)
 
-    with open(output_path, "w") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write(ics_content)
 
-    event_count = len([e for e in events_data.get("events", []) if e.get("date", "") >= datetime.now().strftime("%Y-%m-%d")])
+    event_count = len(get_future_events(events_data))
     print(f"Generated {output_path} with {event_count} events")
 
 

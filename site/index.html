@@ -42,12 +42,7 @@
         "@type": "WebSite",
         "name": "RVA Figure Drawing Calendar",
         "description": "A calendar of figure drawing sessions in Richmond, Virginia",
-        "url": "https://seanperkins.github.io/rva-figure-drawing/",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://seanperkins.github.io/rva-figure-drawing/?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
+        "url": "https://seanperkins.github.io/rva-figure-drawing/"
     }
     </script>
 </head>
@@ -58,17 +53,17 @@
     </header>
 
     <main>
-        <section class="subscribe-section">
-            <h2>📅 Subscribe to Calendar</h2>
+        <section class="subscribe-section" aria-labelledby="subscribe-heading">
+            <h2 id="subscribe-heading"><span aria-hidden="true">📅</span> Subscribe to Calendar</h2>
             <p>Stay up to date with figure drawing events. Add to your calendar app via URL or download.</p>
             <div class="subscribe-buttons">
                 <button class="subscribe-btn" id="copy-url-btn">Copy URL</button>
                 <a href="data/calendar.ics" class="subscribe-btn secondary" download="rva-figure-drawing.ics">Download</a>
             </div>
-            <p class="subscribe-hint" id="subscribe-hint"></p>
+            <p class="subscribe-hint" id="subscribe-hint" aria-live="polite"></p>
         </section>
 
-        <section class="toolbar">
+        <section class="toolbar" aria-label="Event filters and view options">
             <div class="filters">
                 <div class="filter-group">
                     <label for="filter-cost">Cost</label>
@@ -93,32 +88,32 @@
                     </select>
                 </div>
             </div>
-            <div class="view-toggle">
-                <button id="view-list" class="active">List</button>
-                <button id="view-calendar">Calendar</button>
+            <div class="view-toggle" role="tablist" aria-label="View selection">
+                <button id="view-list" class="active" role="tab" aria-selected="true" aria-controls="events-list">List</button>
+                <button id="view-calendar" role="tab" aria-selected="false" aria-controls="events-calendar">Calendar</button>
             </div>
         </section>
 
-        <section id="events-list" class="events-container">
+        <section id="events-list" class="events-container" role="tabpanel" aria-live="polite">
             <p class="loading">Loading events...</p>
         </section>
 
-        <section id="events-calendar" class="events-container hidden">
+        <section id="events-calendar" class="events-container hidden" role="tabpanel">
             <div class="calendar-nav">
-                <button id="cal-prev">&larr;</button>
-                <span id="cal-month"></span>
-                <button id="cal-next">&rarr;</button>
+                <button id="cal-prev" aria-label="Previous month">&larr;</button>
+                <span id="cal-month" aria-live="polite"></span>
+                <button id="cal-next" aria-label="Next month">&rarr;</button>
             </div>
-            <div class="calendar-grid">
-                <div class="cal-header">Sun</div>
-                <div class="cal-header">Mon</div>
-                <div class="cal-header">Tue</div>
-                <div class="cal-header">Wed</div>
-                <div class="cal-header">Thu</div>
-                <div class="cal-header">Fri</div>
-                <div class="cal-header">Sat</div>
+            <div class="calendar-grid" role="grid" aria-label="Calendar">
+                <div class="cal-header" role="columnheader">Sun</div>
+                <div class="cal-header" role="columnheader">Mon</div>
+                <div class="cal-header" role="columnheader">Tue</div>
+                <div class="cal-header" role="columnheader">Wed</div>
+                <div class="cal-header" role="columnheader">Thu</div>
+                <div class="cal-header" role="columnheader">Fri</div>
+                <div class="cal-header" role="columnheader">Sat</div>
             </div>
-            <div id="cal-days" class="calendar-days"></div>
+            <div id="cal-days" class="calendar-days" role="grid"></div>
         </section>
     </main>
 

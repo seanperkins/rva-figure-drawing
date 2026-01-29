@@ -13,6 +13,14 @@
     --accent-hover: #1d4ed8;
     --border: #e5e5e5;
     --tag-bg: #f0f0f0;
+    --date-color: #6b5b4f;
+    --today-bg: #eff6ff;
+    --success: #166534;
+    --success-bg: #dcfce7;
+    --warning: #92400e;
+    --warning-bg: #fef3c7;
+    --error: #991b1b;
+    --error-bg: #fee2e2;
 }
 
 body {
@@ -157,7 +165,7 @@ main {
 
 .event-date {
     font-size: 0.8rem;
-    color: #6b5b4f;
+    color: var(--date-color);
     font-weight: 600;
     text-transform: uppercase;
 }
@@ -330,9 +338,9 @@ main {
     margin-left: auto;
 }
 
-.registration-status.available { background: #dcfce7; color: #166534; }
-.registration-status.waitlist { background: #fef3c7; color: #92400e; }
-.registration-status.closed, .registration-status.sold-out { background: #fee2e2; color: #991b1b; }
+.registration-status.available { background: var(--success-bg); color: var(--success); }
+.registration-status.waitlist { background: var(--warning-bg); color: var(--warning); }
+.registration-status.closed, .registration-status.sold-out { background: var(--error-bg); color: var(--error); }
 
 /* Calendar View */
 .calendar-nav {
@@ -399,7 +407,7 @@ main {
 }
 
 .cal-day.today {
-    background: #eff6ff;
+    background: var(--today-bg);
 }
 
 .cal-day-num {
@@ -539,7 +547,7 @@ footer a:hover {
     }
 
     .view-toggle {
-        justify-content: stretch;
+        width: 100%;
     }
 
     .view-toggle button {

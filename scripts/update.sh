@@ -13,6 +13,20 @@ DATA_FILE="$DATA_DIR/events.json"
 CALENDAR_FILE="$DATA_DIR/calendar.ics"
 PROMPT_FILE="$SCRIPT_DIR/scrape-prompt.md"
 LOG_FILE="$PROJECT_DIR/logs/scrape.log"
+LOCK_FILE="$PROJECT_DIR/.update.lock"
+
+# Cleanup function
+cleanup() {
+    rm -f "$DATA_FILE.tmp" "$LOCK_FILE"
+}
+trap cleanup EXIT
+
+# Check for lock file (prevent concurrent runs)
+if [ -f "$LOCK_FILE" ]; then
+    echo "Another update is already running (lock file exists)"
+    exit 1
+fi
+touch "$LOCK_FILE"
 
 # Ensure directories exist
 mkdir -p "$DATA_DIR" "$(dirname "$LOG_FILE")"

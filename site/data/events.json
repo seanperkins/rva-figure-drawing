@@ -38,24 +38,6 @@
       "instructor": "Salis Dembling"
     },
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/o/art-works-inc-12197735489",
-      "title": "Figure Drawing Open Session",
-      "date": "2026-02-01",
-      "startTime": "13:00",
-      "endTime": null,
-      "location": "Art Works Inc",
-      "address": "6600 W Broad St Suite 105, Richmond, VA 23230",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189",
-      "description": "Figure drawing open session at Art Works Inc.",
-      "tags": ["open-session", "nude"],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
       "source": "visarts",
       "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
       "title": "Figure Drawing (TH-D)",
@@ -144,24 +126,6 @@
       "status": "confirmed",
       "registrationStatus": "available",
       "instructor": "Salis Dembling"
-    },
-    {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/o/art-works-inc-12197735489",
-      "title": "Figure Drawing Open Session",
-      "date": "2026-02-15",
-      "startTime": "13:00",
-      "endTime": null,
-      "location": "Art Works Inc",
-      "address": "6600 W Broad St Suite 105, Richmond, VA 23230",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189",
-      "description": "Figure drawing open session at Art Works Inc.",
-      "tags": ["open-session", "nude"],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
     },
     {
       "source": "studiotwothree",
@@ -272,24 +236,6 @@
       "instructor": "Salis Dembling"
     },
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/o/art-works-inc-12197735489",
-      "title": "Figure Drawing Open Session",
-      "date": "2026-03-01",
-      "startTime": "13:00",
-      "endTime": null,
-      "location": "Art Works Inc",
-      "address": "6600 W Broad St Suite 105, Richmond, VA 23230",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189",
-      "description": "Figure drawing open session at Art Works Inc.",
-      "tags": ["open-session", "nude"],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
       "source": "visarts",
       "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
       "title": "Figure Drawing (TH-H)",
@@ -362,24 +308,6 @@
       "instructor": null
     },
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/o/art-works-inc-12197735489",
-      "title": "Figure Drawing Open Session",
-      "date": "2026-03-15",
-      "startTime": "13:00",
-      "endTime": null,
-      "location": "Art Works Inc",
-      "address": "6600 W Broad St Suite 105, Richmond, VA 23230",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189",
-      "description": "Figure drawing open session at Art Works Inc.",
-      "tags": ["open-session", "nude"],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
       "source": "vmfa",
       "sourceUrl": "https://vmfa.museum/calendar/classes/",
       "title": "Figure Drawing",
@@ -396,42 +324,6 @@
       "status": "confirmed",
       "registrationStatus": "sold-out",
       "instructor": "Amy Smith"
-    },
-    {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/o/art-works-inc-12197735489",
-      "title": "Figure Drawing Open Session",
-      "date": "2026-04-12",
-      "startTime": "13:00",
-      "endTime": null,
-      "location": "Art Works Inc",
-      "address": "6600 W Broad St Suite 105, Richmond, VA 23230",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189",
-      "description": "Figure drawing open session at Art Works Inc.",
-      "tags": ["open-session", "nude"],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/o/art-works-inc-12197735489",
-      "title": "Figure Drawing Open Session",
-      "date": "2026-04-19",
-      "startTime": "13:00",
-      "endTime": null,
-      "location": "Art Works Inc",
-      "address": "6600 W Broad St Suite 105, Richmond, VA 23230",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189",
-      "description": "Figure drawing open session at Art Works Inc.",
-      "tags": ["open-session", "nude"],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
     }
   ]
 }
