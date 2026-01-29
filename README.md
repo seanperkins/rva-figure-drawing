@@ -4,14 +4,14 @@ A static site aggregating figure drawing sessions in Richmond, VA.
 
 ## Live Site
 
-Visit: https://[username].github.io/rva-figure-drawing-calendar/site/
+**https://seanperkins.github.io/rva-figure-drawing/**
 
 ## How It Works
 
 1. Claude CLI with Playwright MCP scrapes event sources daily
 2. Events are normalized to JSON and committed to this repo
 3. GitHub Pages serves the static site
-4. The site reads `data/events.json` and renders a filterable calendar
+4. The site reads `site/data/events.json` and renders a filterable calendar
 
 ## Data Sources
 
@@ -48,14 +48,16 @@ crontab -e
 ## Project Structure
 
 ```
-├── data/
-│   └── events.json       # Aggregated event data
 ├── site/
 │   ├── index.html        # Calendar interface
 │   ├── style.css
-│   └── app.js
+│   ├── app.js
+│   └── data/
+│       ├── events.json   # Aggregated event data
+│       └── calendar.ics  # Subscribable calendar
 ├── scripts/
 │   ├── scrape-prompt.md  # Claude scraping instructions
+│   ├── generate-ics.py   # ICS calendar generator
 │   └── update.sh         # Automation script
 └── docs/
     └── plans/            # Design documents
