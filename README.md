@@ -4,7 +4,7 @@ A static site aggregating figure drawing sessions in Richmond, VA.
 
 ## Live Site
 
-**https://seanperkins.github.io/rva-figure-drawing/**
+[**https://seanperkins.github.io/rva-figure-drawing/**](https://seanperkins.github.io/rva-figure-drawing/)
 
 ## How It Works
 
