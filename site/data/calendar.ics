@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RVA Figure Drawing//Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RVA Figure Drawing
+X-WR-CALDESC:Figure drawing sessions in Richmond, VA
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+UID:2026-01-29-1300-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260129T130000
+DTEND:20260129T153000
+SUMMARY:Figure Drawing (TH-C)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-c-4/
+URL:https://www.visarts.org/classes/figure-drawing-th-c-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-1830-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260130T183000
+DTEND:20260130T210000
+SUMMARY:Figure Drawing (F-C)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-c-5/
+URL:https://www.visarts.org/classes/figure-drawing-f-c-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-01-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260201T130000
+DTEND:20260201T130000
+SUMMARY:Figure Drawing Open Session
+LOCATION:Art Works Inc\, 6600 W Broad St Suite 105\, Richmond\, VA 23230
+DESCRIPTION:Figure drawing open session at Art Works Inc.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-05-1300-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260205T130000
+DTEND:20260205T153000
+SUMMARY:Figure Drawing (TH-D)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-d-4/
+URL:https://www.visarts.org/classes/figure-drawing-th-d-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-06-1830-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260206T183000
+DTEND:20260206T210000
+SUMMARY:Figure Drawing (F-D)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-d-6/
+URL:https://www.visarts.org/classes/figure-drawing-f-d-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-08-1000-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260208T100000
+DTEND:20260208T123000
+SUMMARY:Figure Drawing (S-B)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-s-b-2/
+URL:https://www.visarts.org/classes/figure-drawing-s-b-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-12-1300-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260212T130000
+DTEND:20260212T153000
+SUMMARY:Figure Drawing (TH-E)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-e-4/
+URL:https://www.visarts.org/classes/figure-drawing-th-e-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-1830-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260213T183000
+DTEND:20260213T210000
+SUMMARY:Figure Drawing (F-E)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-e-5/
+URL:https://www.visarts.org/classes/figure-drawing-f-e-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-15-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260215T130000
+DTEND:20260215T130000
+SUMMARY:Figure Drawing Open Session
+LOCATION:Art Works Inc\, 6600 W Broad St Suite 105\, Richmond\, VA 23230
+DESCRIPTION:Figure drawing open session at Art Works Inc.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-18-1800-studiotwothree@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260218T180000
+DTEND:20260218T210000
+SUMMARY:Drink & Draw: Figure Drawing
+LOCATION:Studio Two Three\, 3300 W Clay St\, Richmond\, VA 23230
+DESCRIPTION:Join us for an evening of figure drawing with a live model. BYOB encouraged.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/adult-workshops/drink-draw-figure-drawing
+URL:https://www.studiotwothree.org/adult-workshops/drink-draw-figure-drawing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-19-1300-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260219T130000
+DTEND:20260219T153000
+SUMMARY:Figure Drawing (TH-F)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-f-4/
+URL:https://www.visarts.org/classes/figure-drawing-th-f-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-20-1830-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260220T183000
+DTEND:20260220T210000
+SUMMARY:Figure Drawing (F-F)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-f-5/
+URL:https://www.visarts.org/classes/figure-drawing-f-f-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-22-1000-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260222T100000
+DTEND:20260222T123000
+SUMMARY:Figure Drawing (S-C)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-s-c-2/
+URL:https://www.visarts.org/classes/figure-drawing-s-c-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-26-1300-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260226T130000
+DTEND:20260226T153000
+SUMMARY:Figure Drawing (TH-G)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-g-4/
+URL:https://www.visarts.org/classes/figure-drawing-th-g-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27-1830-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260227T183000
+DTEND:20260227T210000
+SUMMARY:Figure Drawing (F-G)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-g-5/
+URL:https://www.visarts.org/classes/figure-drawing-f-g-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-01-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260301T130000
+DTEND:20260301T130000
+SUMMARY:Figure Drawing Open Session
+LOCATION:Art Works Inc\, 6600 W Broad St Suite 105\, Richmond\, VA 23230
+DESCRIPTION:Figure drawing open session at Art Works Inc.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-05-1300-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260305T130000
+DTEND:20260305T153000
+SUMMARY:Figure Drawing (TH-H)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-h-4/
+URL:https://www.visarts.org/classes/figure-drawing-th-h-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-1830-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260306T183000
+DTEND:20260306T210000
+SUMMARY:Figure Drawing (F-H)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-h-3/
+URL:https://www.visarts.org/classes/figure-drawing-f-h-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-08-1000-visarts@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260308T100000
+DTEND:20260308T123000
+SUMMARY:Figure Drawing (S-D)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session. No instruction provided. Bring your own materials.\\n\\nCost: $7 ($3 tuition + model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-s-d-2/
+URL:https://www.visarts.org/classes/figure-drawing-s-d-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-15-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260315T130000
+DTEND:20260315T130000
+SUMMARY:March Drawing Club
+LOCATION:Gallery5\, 200 W Marshall St\, Richmond\, VA 23220
+DESCRIPTION:Monthly drawing club meetup at Gallery5.\\n\\nCost: Free\\n\\nRegister: https://www.eventbrite.com/e/march-drawing-club-tickets-1145789321899
+URL:https://www.eventbrite.com/e/march-drawing-club-tickets-1145789321899
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-15-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260315T130000
+DTEND:20260315T130000
+SUMMARY:Figure Drawing Open Session
+LOCATION:Art Works Inc\, 6600 W Broad St Suite 105\, Richmond\, VA 23230
+DESCRIPTION:Figure drawing open session at Art Works Inc.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-21-1000-vmfa@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260321T100000
+DTEND:20260321T160000
+SUMMARY:Figure Drawing
+LOCATION:VMFA Studio School\, 200 N Arthur Ashe Blvd\, Richmond\, VA 23220
+DESCRIPTION:Figure drawing class at VMFA Studio School. Instructor: Amy Smith.\\n\\nCost: $80 (Member)\\n\\nRegister: https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing
+URL:https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-12-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260412T130000
+DTEND:20260412T130000
+SUMMARY:Figure Drawing Open Session
+LOCATION:Art Works Inc\, 6600 W Broad St Suite 105\, Richmond\, VA 23230
+DESCRIPTION:Figure drawing open session at Art Works Inc.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-19-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260129T034002Z
+DTSTART:20260419T130000
+DTEND:20260419T130000
+SUMMARY:Figure Drawing Open Session
+LOCATION:Art Works Inc\, 6600 W Broad St Suite 105\, Richmond\, VA 23230
+DESCRIPTION:Figure drawing open session at Art Works Inc.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-tickets-1139742571189
+END:VEVENT
+END:VCALENDAR

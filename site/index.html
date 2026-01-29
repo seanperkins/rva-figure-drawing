@@ -13,34 +13,43 @@
     </header>
 
     <main>
-        <section class="filters">
-            <div class="filter-group">
-                <label for="filter-cost">Cost</label>
-                <select id="filter-cost">
-                    <option value="all">All</option>
-                    <option value="free">Free</option>
-                    <option value="paid">Paid</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="filter-type">Type</label>
-                <select id="filter-type">
-                    <option value="all">All</option>
-                    <option value="open-session">Open Session</option>
-                    <option value="instructed">Instructed</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="filter-location">Location</label>
-                <select id="filter-location">
-                    <option value="all">All Locations</option>
-                </select>
-            </div>
+        <section class="subscribe-section">
+            <h2>📅 Subscribe to Calendar</h2>
+            <p>Automatically stay up to date with figure drawing events in Richmond.</p>
+            <a href="data/calendar.ics" class="subscribe-btn" id="subscribe-btn">
+                Subscribe
+            </a>
         </section>
 
-        <section class="view-toggle">
-            <button id="view-list" class="active">List</button>
-            <button id="view-calendar">Calendar</button>
+        <section class="toolbar">
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="filter-cost">Cost</label>
+                    <select id="filter-cost">
+                        <option value="all">All</option>
+                        <option value="free">Free</option>
+                        <option value="paid">Paid</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-type">Type</label>
+                    <select id="filter-type">
+                        <option value="all">All</option>
+                        <option value="open-session">Open Session</option>
+                        <option value="instructed">Instructed</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-location">Location</label>
+                    <select id="filter-location">
+                        <option value="all">All Locations</option>
+                    </select>
+                </div>
+            </div>
+            <div class="view-toggle">
+                <button id="view-list" class="active">List</button>
+                <button id="view-calendar">Calendar</button>
+            </div>
         </section>
 
         <section id="events-list" class="events-container">

@@ -4,6 +4,16 @@ let allEvents = [];
 let filteredEvents = [];
 let currentMonth = new Date();
 
+// Color map for event sources
+const sourceColors = {
+    visarts: '#2563eb',    // Blue
+    studio23: '#7c3aed',   // Purple
+    artspace: '#059669',   // Green
+    artworks: '#d97706',   // Amber
+    vmfa: '#dc2626',       // Red
+    eventbrite: '#6366f1'  // Indigo
+};
+
 // DOM Elements
 const eventsList = document.getElementById('events-list');
 const eventsCalendar = document.getElementById('events-calendar');
@@ -21,7 +31,7 @@ const calNextBtn = document.getElementById('cal-next');
 // Initialize
 async function init() {
     try {
-        const response = await fetch('../data/events.json');
+        const response = await fetch('data/events.json');
         const data = await response.json();
 
         allEvents = data.events || [];
@@ -41,6 +51,9 @@ async function init() {
         // Populate location filter
         populateLocationFilter();
 
+        // Set up calendar subscription link
+        setupSubscribeLink();
+
         // Apply filters and render
         applyFilters();
 
@@ -58,6 +71,24 @@ function populateLocationFilter() {
         option.textContent = loc;
         filterLocation.appendChild(option);
     });
+}
+
+function setupSubscribeLink() {
+    const subscribeBtn = document.getElementById('subscribe-btn');
+    if (!subscribeBtn) return;
+
+    // Build calendar URL from current location
+    const baseUrl = window.location.href.replace(/\/[^/]*$/, '');
+    const calendarUrl = `${baseUrl}/data/calendar.ics`;
+
+    // Use webcal:// for remote hosts (enables subscription), direct link for localhost
+    const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    if (isLocalhost) {
+        subscribeBtn.href = calendarUrl;
+        subscribeBtn.setAttribute('download', 'rva-figure-drawing.ics');
+    } else {
+        subscribeBtn.href = calendarUrl.replace(/^https?:/, 'webcal:');
+    }
 }
 
 function applyFilters() {
@@ -107,7 +138,7 @@ function renderList() {
         return;
     }
 
-    eventsList.innerHTML = filteredEvents.map(event => {
+    eventsList.innerHTML = filteredEvents.map((event, index) => {
         const dateObj = new Date(event.date + 'T12:00:00');
         const dateStr = dateObj.toLocaleDateString('en-US', {
             weekday: 'short',
@@ -125,15 +156,37 @@ function renderList() {
             ? `<span class="registration-status ${event.registrationStatus}">${event.registrationStatus}</span>`
             : '';
 
+        const mapsUrl = event.address
+            ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(event.address)}`
+            : null;
+
+        const locationHtml = mapsUrl
+            ? `<a href="${mapsUrl}" target="_blank" rel="noopener">${event.location}</a>`
+            : event.location;
+
+        const sourceColor = sourceColors[event.source] || '#888';
+
         return `
-            <article class="event-card">
-                <div class="event-date">${dateStr}</div>
+            <article class="event-card" data-event-index="${index}" style="border-left-color: ${sourceColor}">
+                <div class="event-header">
+                    <div class="event-date">${dateStr}</div>
+                    <div class="add-to-cal-wrapper">
+                        <button class="add-to-cal" onclick="toggleCalendarMenu(${index})">
+                            <span>📅</span>
+                            <span class="add-to-cal-text">Add to Calendar</span>
+                        </button>
+                        <div class="calendar-menu" id="cal-menu-${index}">
+                            <a href="${getGoogleCalendarUrl(event)}" target="_blank" rel="noopener">Google Calendar</a>
+                            <button onclick="downloadEventICS(${index})">Download ICS</button>
+                        </div>
+                    </div>
+                </div>
                 <h2 class="event-title">
                     <a href="${event.url}" target="_blank">${event.title}</a>
                 </h2>
                 <div class="event-meta">
                     ${timeStr ? `<span class="event-time">${timeStr}</span>` : ''}
-                    <span class="event-location">${event.location}</span>
+                    <span class="event-location">${locationHtml}</span>
                     <span class="event-cost">${event.cost}</span>
                 </div>
                 <div class="event-tags">
@@ -157,6 +210,132 @@ function formatTimeRange(start, end) {
 
     if (!end) return formatTime(start);
     return `${formatTime(start)} - ${formatTime(end)}`;
+}
+
+function generateICS(event) {
+    const formatICSDate = (date, time) => {
+        const d = date.replace(/-/g, '');
+        const t = time ? time.replace(':', '') + '00' : '000000';
+        return d + 'T' + t;
+    };
+
+    const escapeICS = (str) => {
+        if (!str) return '';
+        return str
+            .replace(/\\/g, '\\\\')
+            .replace(/;/g, '\\;')
+            .replace(/,/g, '\\,')
+            .replace(/\n/g, '\\n');
+    };
+
+    const uid = `${event.date}-${event.startTime || '0000'}-${event.source}@rvafiguredrawing`;
+    const dtstart = formatICSDate(event.date, event.startTime);
+    const dtend = event.endTime
+        ? formatICSDate(event.date, event.endTime)
+        : formatICSDate(event.date, event.startTime); // Same as start if no end
+
+    const location = event.address
+        ? `${event.location}, ${event.address}`
+        : event.location;
+
+    const description = [
+        event.description,
+        event.cost ? `Cost: ${event.cost}` : '',
+        event.url ? `Register: ${event.url}` : ''
+    ].filter(Boolean).join('\\n\\n');
+
+    const lines = [
+        'BEGIN:VCALENDAR',
+        'VERSION:2.0',
+        'PRODID:-//RVA Figure Drawing//Calendar//EN',
+        'CALSCALE:GREGORIAN',
+        'METHOD:PUBLISH',
+        'BEGIN:VEVENT',
+        `UID:${uid}`,
+        `DTSTAMP:${new Date().toISOString().replace(/[-:]/g, '').split('.')[0]}Z`,
+        `DTSTART:${dtstart}`,
+        `DTEND:${dtend}`,
+        `SUMMARY:${escapeICS(event.title)}`,
+        `LOCATION:${escapeICS(location)}`,
+        `DESCRIPTION:${escapeICS(description)}`,
+        event.url ? `URL:${event.url}` : '',
+        'END:VEVENT',
+        'END:VCALENDAR'
+    ].filter(Boolean);
+
+    return lines.join('\r\n');
+}
+
+function getGoogleCalendarUrl(event) {
+    const formatGoogleDate = (date, time) => {
+        const d = date.replace(/-/g, '');
+        const t = time ? time.replace(':', '') + '00' : '000000';
+        return d + 'T' + t;
+    };
+
+    const start = formatGoogleDate(event.date, event.startTime);
+    const end = formatGoogleDate(event.date, event.endTime || event.startTime);
+
+    const location = event.address
+        ? `${event.location}, ${event.address}`
+        : event.location;
+
+    const details = [
+        event.description,
+        event.cost ? `Cost: ${event.cost}` : '',
+        event.url ? `Register: ${event.url}` : ''
+    ].filter(Boolean).join('\n\n');
+
+    const params = new URLSearchParams({
+        action: 'TEMPLATE',
+        text: event.title,
+        dates: `${start}/${end}`,
+        location: location,
+        details: details
+    });
+
+    return `https://calendar.google.com/calendar/render?${params.toString()}`;
+}
+
+function toggleCalendarMenu(index) {
+    const menu = document.getElementById(`cal-menu-${index}`);
+    const isOpen = menu.classList.contains('open');
+
+    // Close all other menus
+    document.querySelectorAll('.calendar-menu.open').forEach(m => m.classList.remove('open'));
+
+    if (!isOpen) {
+        menu.classList.add('open');
+    }
+}
+
+// Close menus when clicking outside
+document.addEventListener('click', (e) => {
+    if (!e.target.closest('.add-to-cal-wrapper')) {
+        document.querySelectorAll('.calendar-menu.open').forEach(m => m.classList.remove('open'));
+    }
+});
+
+function downloadEventICS(index) {
+    const event = filteredEvents[index];
+    if (!event) return;
+
+    // Close the menu
+    document.querySelectorAll('.calendar-menu.open').forEach(m => m.classList.remove('open'));
+
+    const icsContent = generateICS(event);
+    const blob = new Blob([icsContent], { type: 'text/calendar;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+
+    const filename = `${event.date}-${event.title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.ics`;
+
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
 }
 
 function renderCalendar() {
@@ -201,9 +380,10 @@ function renderCalendar() {
         const isToday = dateStr === todayStr;
         const dayEvents = monthEvents[dateStr] || [];
 
-        const eventsHtml = dayEvents.slice(0, 2).map(e =>
-            `<div class="cal-event" title="${e.title}" onclick="window.open('${e.url}', '_blank')">${e.location.split(' ')[0]}</div>`
-        ).join('');
+        const eventsHtml = dayEvents.slice(0, 2).map(e => {
+            const color = sourceColors[e.source] || '#888';
+            return `<div class="cal-event" style="background: ${color}" title="${e.title}" onclick="window.open('${e.url}', '_blank')">${e.location.split(' ')[0]}</div>`;
+        }).join('');
 
         const moreHtml = dayEvents.length > 2
             ? `<div class="cal-event" style="background:#666">+${dayEvents.length - 2} more</div>`
