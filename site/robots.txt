@@ -1,0 +1,5 @@
+# RVA Figure Drawing Calendar
+User-agent: *
+Allow: /
+
+Sitemap: https://seanperkins.github.io/rva-figure-drawing/sitemap.xml
