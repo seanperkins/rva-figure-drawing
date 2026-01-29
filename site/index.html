@@ -15,10 +15,12 @@
     <main>
         <section class="subscribe-section">
             <h2>📅 Subscribe to Calendar</h2>
-            <p>Automatically stay up to date with figure drawing events in Richmond.</p>
-            <a href="data/calendar.ics" class="subscribe-btn" id="subscribe-btn">
-                Subscribe
-            </a>
+            <p>Stay up to date with figure drawing events. Add to your calendar app via URL or download.</p>
+            <div class="subscribe-buttons">
+                <button class="subscribe-btn" id="copy-url-btn">Copy URL</button>
+                <a href="data/calendar.ics" class="subscribe-btn secondary" download="rva-figure-drawing.ics">Download</a>
+            </div>
+            <p class="subscribe-hint" id="subscribe-hint"></p>
         </section>
 
         <section class="toolbar">

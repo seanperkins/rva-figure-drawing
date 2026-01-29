@@ -74,27 +74,29 @@ function populateLocationFilter() {
 }
 
 function setupSubscribeLink() {
-    const subscribeBtn = document.getElementById('subscribe-btn');
-    if (!subscribeBtn) return;
+    const copyBtn = document.getElementById('copy-url-btn');
+    const hint = document.getElementById('subscribe-hint');
+    if (!copyBtn) return;
 
-    // Build absolute calendar URL from origin + pathname (handles trailing slash correctly)
+    // Build absolute calendar URL
     let basePath = window.location.pathname;
     if (basePath.endsWith('/')) {
         basePath = basePath.slice(0, -1);
     } else if (basePath.includes('.')) {
-        // Remove filename like index.html
         basePath = basePath.replace(/\/[^/]*$/, '');
     }
     const calendarUrl = `${window.location.origin}${basePath}/data/calendar.ics`;
 
-    // Use webcal:// for remote hosts (enables subscription), direct link for localhost
-    const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-    if (isLocalhost) {
-        subscribeBtn.href = calendarUrl;
-        subscribeBtn.setAttribute('download', 'rva-figure-drawing.ics');
-    } else {
-        subscribeBtn.href = calendarUrl.replace(/^https?:/, 'webcal:');
-    }
+    copyBtn.addEventListener('click', async () => {
+        try {
+            await navigator.clipboard.writeText(calendarUrl);
+            hint.textContent = 'URL copied! Paste into your calendar app\'s "Add by URL" option.';
+            hint.style.color = '#166534';
+        } catch (err) {
+            hint.textContent = calendarUrl;
+            hint.style.color = 'var(--text-muted)';
+        }
+    });
 }
 
 function applyFilters() {
