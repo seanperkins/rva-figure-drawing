@@ -91,11 +91,11 @@ function populateLocationFilter() {
 }
 
 function setupSubscribeLink() {
+    const subscribeBtn = document.getElementById('subscribe-btn');
     const copyBtn = document.getElementById('copy-url-btn');
     const hint = document.getElementById('subscribe-hint');
-    if (!copyBtn) return;
 
-    // Build absolute calendar URL
+    // Build calendar URLs
     let basePath = window.location.pathname;
     if (basePath.endsWith('/')) {
         basePath = basePath.slice(0, -1);
@@ -103,23 +103,31 @@ function setupSubscribeLink() {
         basePath = basePath.replace(/\/[^/]*$/, '');
     }
     const calendarUrl = `${window.location.origin}${basePath}/data/calendar.ics`;
+    const webcalUrl = calendarUrl.replace(/^https?:/, 'webcal:');
 
-    copyBtn.addEventListener('click', async () => {
-        // Check for clipboard API support
-        if (navigator.clipboard && navigator.clipboard.writeText) {
-            try {
-                await navigator.clipboard.writeText(calendarUrl);
-                hint.textContent = 'URL copied! Paste into your calendar app\'s "Add by URL" option.';
-                hint.style.color = '#166534';
-                return;
-            } catch (err) {
-                // Fall through to fallback
+    // Subscribe button uses webcal:// protocol to open calendar app directly
+    if (subscribeBtn) {
+        subscribeBtn.href = webcalUrl;
+    }
+
+    // Copy URL button for users who prefer manual subscription
+    if (copyBtn) {
+        copyBtn.addEventListener('click', async () => {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                try {
+                    await navigator.clipboard.writeText(calendarUrl);
+                    hint.textContent = 'URL copied! Paste into your calendar app\'s "Add by URL" option.';
+                    hint.style.color = '#166534';
+                    return;
+                } catch (err) {
+                    // Fall through to fallback
+                }
             }
-        }
-        // Fallback: show URL for manual copy
-        hint.textContent = calendarUrl;
-        hint.style.color = 'var(--text-muted)';
-    });
+            // Fallback: show URL for manual copy
+            hint.textContent = calendarUrl;
+            hint.style.color = 'var(--text-muted)';
+        });
+    }
 }
 
 function applyFilters() {
