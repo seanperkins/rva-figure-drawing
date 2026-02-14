@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-02-13T13:52:13Z",
+  "lastUpdated": "2026-02-14T21:33:16Z",
   "events": [
-    {
-      "source": "visarts",
-      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
-      "title": "Figure Drawing (TH-E)",
-      "date": "2026-02-12",
-      "startTime": "13:00",
-      "endTime": "15:30",
-      "location": "Visual Arts Center of Richmond",
-      "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
-      "costValue": 7.0,
-      "url": "https://www.visarts.org/classes/figure-drawing-th-e-4/",
-      "description": "Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "visarts",
-      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
-      "title": "Figure Drawing (F-E)",
-      "date": "2026-02-13",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "location": "Visual Arts Center of Richmond",
-      "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
-      "costValue": 7.0,
-      "url": "https://www.visarts.org/classes/figure-drawing-f-e-5/",
-      "description": "Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "waitlist",
-      "instructor": null
-    },
     {
       "source": "artspace",
       "sourceUrl": "https://www.artspacegallery.org/",
@@ -55,9 +13,10 @@
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp",
-      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. Chairs provided. Bring your own drawing materials/board/easel. Open session. All skill levels welcome. Must be over 18.",
+      "description": "Draw a live model for 2 hours! Figure Drawing sessions every third Tuesday of the month. Open session, all skill levels welcome. Chairs provided, bring your own drawing materials/board/easel. Must be over 18. Limited space \u2013 please arrive promptly.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
@@ -71,11 +30,11 @@
       "startTime": "18:00",
       "endTime": "21:00",
       "location": "Shop Two Three",
-      "address": "1437 Hull Street, Richmond, VA",
+      "address": "1437 Hull Street, Richmond, VA 23224",
       "cost": "$20",
       "costValue": 20.0,
       "url": "https://www.studiotwothree.org/classes/p/figure-drawing-217",
-      "description": "3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with gestural poses, progressing to longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.",
+      "description": "3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with short gestural poses and concluding with longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.",
       "tags": [
         "open-session",
         "nude"
@@ -93,10 +52,10 @@
       "endTime": "15:30",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-th-f-4/",
-      "description": "Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -114,10 +73,10 @@
       "endTime": "21:00",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-f-f-5/",
-      "description": "Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -135,10 +94,10 @@
       "endTime": "12:30",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-s-c-2/",
-      "description": "Open figure drawing session with live nude model. Instructor: Richard Bronson. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Richard Bronson. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -156,10 +115,10 @@
       "endTime": "15:30",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-th-g-4/",
-      "description": "Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -177,10 +136,10 @@
       "endTime": "21:00",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-f-g-5/",
-      "description": "Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -198,10 +157,10 @@
       "endTime": "15:30",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-th-h-4/",
-      "description": "Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -219,10 +178,10 @@
       "endTime": "21:00",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-f-h-3/",
-      "description": "Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -240,10 +199,10 @@
       "endTime": "12:30",
       "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$3 tuition + model fee (~$7 total)",
+      "cost": "$7 (includes $3 tuition + ~$4 model fee)",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-s-d-2/",
-      "description": "Open figure drawing session with live nude model. Instructor: Mira Anniballi. No instruction provided.",
+      "description": "Open figure drawing session with live nude model. Instructor: Mira Anniballi. No instruction provided - bring your own materials.",
       "tags": [
         "open-session",
         "nude"
@@ -264,7 +223,7 @@
       "cost": "$20",
       "costValue": 20.0,
       "url": "https://www.studiotwothree.org/classes/p/figure-drawing-night",
-      "description": "3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with gestural poses, progressing to longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.",
+      "description": "3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with short gestural poses and concluding with longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.",
       "tags": [
         "open-session",
         "nude"

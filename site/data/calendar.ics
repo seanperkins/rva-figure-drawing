@@ -7,123 +7,113 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-02-13-1830-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
-DTSTART:20260213T183000
-DTEND:20260213T210000
-SUMMARY:Figure Drawing (F-E)
-LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-e-5/
-URL:https://www.visarts.org/classes/figure-drawing-f-e-5/
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-02-17-1030-artspace@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260217T103000
 DTEND:20260217T123000
 SUMMARY:Morning Figure Drawing at Artspace
 LOCATION:Artspace\, 2833-A Hathaway Rd.\, Richmond\, VA 23225
-DESCRIPTION:Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. Chairs provided. Bring your own drawing materials/board/easel. Open session. All skill levels welcome. Must be over 18.\\n\\nCost: $10\\n\\nRegister: https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp
+DESCRIPTION:Draw a live model for 2 hours! Figure Drawing sessions every third Tuesday of the month. Open session\, all skill levels welcome. Chairs provided\, bring your own drawing materials/board/easel. Must be over 18. Limited space – please arrive promptly.\\n\\nCost: $10\\n\\nRegister: https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp
 URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-18-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260218T180000
 DTEND:20260218T210000
 SUMMARY:Figure Drawing - 2/18
-LOCATION:Shop Two Three\, 1437 Hull Street\, Richmond\, VA
-DESCRIPTION:3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with gestural poses\, progressing to longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/classes/p/figure-drawing-217
+LOCATION:Shop Two Three\, 1437 Hull Street\, Richmond\, VA 23224
+DESCRIPTION:3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with short gestural poses and concluding with longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/classes/p/figure-drawing-217
 URL:https://www.studiotwothree.org/classes/p/figure-drawing-217
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-19-1300-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260219T130000
 DTEND:20260219T153000
 SUMMARY:Figure Drawing (TH-F)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-f-4/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-f-4/
 URL:https://www.visarts.org/classes/figure-drawing-th-f-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-20-1830-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260220T183000
 DTEND:20260220T210000
 SUMMARY:Figure Drawing (F-F)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-f-5/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-f-5/
 URL:https://www.visarts.org/classes/figure-drawing-f-f-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-22-1000-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260222T100000
 DTEND:20260222T123000
 SUMMARY:Figure Drawing (S-C)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Richard Bronson. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-s-c-2/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Richard Bronson. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-s-c-2/
 URL:https://www.visarts.org/classes/figure-drawing-s-c-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-26-1300-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260226T130000
 DTEND:20260226T153000
 SUMMARY:Figure Drawing (TH-G)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-g-4/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-g-4/
 URL:https://www.visarts.org/classes/figure-drawing-th-g-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-27-1830-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260227T183000
 DTEND:20260227T210000
 SUMMARY:Figure Drawing (F-G)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-g-5/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-g-5/
 URL:https://www.visarts.org/classes/figure-drawing-f-g-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-05-1300-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260305T130000
 DTEND:20260305T153000
 SUMMARY:Figure Drawing (TH-H)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-h-4/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mary Beth Beasley. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-th-h-4/
 URL:https://www.visarts.org/classes/figure-drawing-th-h-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-06-1830-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260306T183000
 DTEND:20260306T210000
 SUMMARY:Figure Drawing (F-H)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-h-3/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Salis Dembling. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-f-h-3/
 URL:https://www.visarts.org/classes/figure-drawing-f-h-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-08-1000-visarts@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260308T100000
 DTEND:20260308T123000
 SUMMARY:Figure Drawing (S-D)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mira Anniballi. No instruction provided.\\n\\nCost: $3 tuition + model fee (~$7 total)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-s-d-2/
+DESCRIPTION:Open figure drawing session with live nude model. Instructor: Mira Anniballi. No instruction provided - bring your own materials.\\n\\nCost: $7 (includes $3 tuition + ~$4 model fee)\\n\\nRegister: https://www.visarts.org/classes/figure-drawing-s-d-2/
 URL:https://www.visarts.org/classes/figure-drawing-s-d-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-17-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20260213T135213Z
+DTSTAMP:20260214T213317Z
 DTSTART:20260317T180000
 DTEND:20260317T210000
 SUMMARY:Figure Drawing Night - 3/17
 LOCATION:Studio Two Three\, 109 W 15th St\, Richmond\, VA 23224
-DESCRIPTION:3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with gestural poses\, progressing to longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/classes/p/figure-drawing-night
+DESCRIPTION:3 hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar will call poses - beginning with short gestural poses and concluding with longer poses. Bring your own drawing/painting/sculpting materials. No photography permitted.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/classes/p/figure-drawing-night
 URL:https://www.studiotwothree.org/classes/p/figure-drawing-night
 END:VEVENT
 END:VCALENDAR
