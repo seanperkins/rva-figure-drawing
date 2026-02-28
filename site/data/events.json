@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T14:30:49Z",
+  "lastUpdated": "2026-02-28T13:02:54Z",
   "events": [
     {
       "source": "visarts",
@@ -23,8 +23,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Drawing Open Session - March 1, 2026",
       "date": "2026-03-01",
       "startTime": "13:00",
@@ -34,7 +34,7 @@
       "cost": "$12.51",
       "costValue": 12.51,
       "url": "https://www.eventbrite.com/e/drawing-open-session-march-1-2026-tickets-1979624926445",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "description": "Open Figure Drawing Sessions hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
@@ -106,23 +106,23 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - March 15, 2026",
       "date": "2026-03-15",
       "startTime": "13:00",
       "endTime": "16:00",
       "location": "Art Works Inc",
       "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": "$12.51",
-      "costValue": 12.51,
+      "cost": "Donation",
+      "costValue": null,
       "url": "https://www.eventbrite.com/e/figure-drawing-open-session-march-15-2026-tickets-1979886759595",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "description": "Open Figure Drawing Session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
@@ -155,7 +155,7 @@
       "endTime": "16:00",
       "location": "VMFA Studio School",
       "address": "200 N Arthur Ashe Boulevard, Richmond, VA 23220",
-      "cost": "Member $80",
+      "cost": "$80 (member)",
       "costValue": 80.0,
       "url": "https://www.vmfa.museum/classes/figure-drawing-27",
       "description": "Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith.",
