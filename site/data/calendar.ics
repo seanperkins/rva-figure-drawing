@@ -7,18 +7,8 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-03-01-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260301T181435Z
-DTSTART:20260301T130000
-DTEND:20260301T160000
-SUMMARY:Drawing Open Session - March 1\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Sessions. RVA Thriving Artists hosting at Art Works. Bring your own materials and easel. Donation pays the model's fee.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/drawing-open-session-march-1-2026-tickets-1979624926445
-URL:https://www.eventbrite.com/e/drawing-open-session-march-1-2026-tickets-1979624926445
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-03-10-1800-artspace@rvafiguredrawing
-DTSTAMP:20260301T181435Z
+DTSTAMP:20260302T152238Z
 DTSTART:20260310T180000
 DTEND:20260310T203000
 SUMMARY:Evening Figure Drawing
@@ -27,18 +17,8 @@ DESCRIPTION:Figure Drawing sessions every second Tuesday of the month. Draw a li
 URL:https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-03-15-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260301T181435Z
-DTSTART:20260315T130000
-DTEND:20260315T160000
-SUMMARY:Figure Drawing Open Session - March 15\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Session. RVA Thriving Artists hosting at Art Works. Bring your own materials and easel. Donation pays the model's fee.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-march-15-2026-tickets-1979886759595
-URL:https://www.eventbrite.com/e/figure-drawing-open-session-march-15-2026-tickets-1979886759595
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-03-17-1030-artspace@rvafiguredrawing
-DTSTAMP:20260301T181435Z
+DTSTAMP:20260302T152238Z
 DTSTART:20260317T103000
 DTEND:20260317T113000
 SUMMARY:Morning Figure Drawing at Artspace
@@ -47,33 +27,23 @@ DESCRIPTION:Figure Drawing sessions every third Tuesday of the month. Draw a liv
 URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-03-21-1000-vmfa@rvafiguredrawing
-DTSTAMP:20260301T181435Z
-DTSTART:20260321T100000
-DTEND:20260321T160000
-SUMMARY:Figure Drawing [27]
-LOCATION:VMFA Studio School\, 200 N Arthur Ashe Boulevard\, Richmond\, VA 23220
-DESCRIPTION:Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model\, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith.\\n\\nCost: $80 (member)\\n\\nRegister: https://www.vmfa.museum/classes/figure-drawing-27
-URL:https://www.vmfa.museum/classes/figure-drawing-27
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-03-25-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260301T181435Z
+DTSTAMP:20260302T152238Z
 DTSTART:20260325T194500
 DTEND:20260325T220000
 SUMMARY:18+ Figure Drawing: March Session
 LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:Ongoing nude figure drawing series open to artists 18+. Long pose session featuring a single model. Tickets required\, purchased in advance. No phones/photos during event.\\n\\nCost: $10.00\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition-4dl5l-gc5f9
+DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. March session is a long pose session featuring a single model. Tickets must be purchased in advance\; space is limited. No photos allowed.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition-4dl5l-gc5f9
 URL:https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition-4dl5l-gc5f9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260301T181435Z
+DTSTAMP:20260302T152238Z
 DTSTART:20260429T194500
 DTEND:20260429T220000
 SUMMARY:18+ Figure Drawing: April Session
 LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:Ongoing nude figure drawing series open to artists 18+. Short pose session featuring a single model. Tickets required\, purchased in advance. No phones/photos during event.\\n\\nCost: $10.00\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition-4dl5l-gc5f9-m27ms
+DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. April session is a short pose session featuring a single model\, ideal for quick sketches and gestural drawings. Tickets must be purchased in advance\; space is limited. No photos allowed.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition-4dl5l-gc5f9-m27ms
 URL:https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition-4dl5l-gc5f9-m27ms
 END:VEVENT
 END:VCALENDAR
