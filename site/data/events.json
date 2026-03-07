@@ -1,27 +1,6 @@
 {
-  "lastUpdated": "2026-03-06T13:27:15Z",
+  "lastUpdated": "2026-03-07T15:35:05Z",
   "events": [
-    {
-      "source": "visarts",
-      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
-      "title": "Figure Drawing (F-H)",
-      "date": "2026-03-06",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "location": "VisArts",
-      "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$7",
-      "costValue": 7.0,
-      "url": "https://www.visarts.org/classes/figure-drawing-f-h-3/",
-      "description": "Open figure drawing session. Instructor: Salis Dembling. $3 tuition + model fee (~$7 total).",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "closed",
-      "instructor": null
-    },
     {
       "source": "visarts",
       "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
@@ -29,12 +8,12 @@
       "date": "2026-03-08",
       "startTime": "10:00",
       "endTime": "12:30",
-      "location": "VisArts",
+      "location": "Visual Arts Center of Richmond",
       "address": "1812 W Main St, Richmond, VA 23220",
       "cost": "$7",
       "costValue": 7.0,
       "url": "https://www.visarts.org/classes/figure-drawing-s-d-2/",
-      "description": "Open figure drawing session. Instructor: Mira Anniballi. $3 tuition + model fee (~$7 total).",
+      "description": "Open figure drawing session. Instructor: Mira Anniballi. $3 tuition + ~$4 model fee. All levels welcome.",
       "tags": [
         "open-session",
         "nude"
@@ -57,15 +36,16 @@
       "url": "https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd",
       "description": "Figure Drawing sessions every second Tuesday of the month. Draw a live model for 2.5 hours. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
-      "registrationStatus": "unknown",
+      "registrationStatus": "available",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - March 15, 2026",
       "date": "2026-03-15",
       "startTime": "13:00",
@@ -86,42 +66,43 @@
     {
       "source": "artspace",
       "sourceUrl": "https://www.artspacegallery.org/",
-      "title": "Morning Figure Drawing at Artspace",
+      "title": "Morning Figure Drawing at Artspace on March 17, 2026",
       "date": "2026-03-17",
       "startTime": "10:30",
-      "endTime": "12:30",
+      "endTime": "11:30",
       "location": "Artspace",
       "address": "2833-A Hathaway Rd, Richmond, VA 23225",
       "cost": "$10 donation",
       "costValue": 10.0,
       "url": "https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb",
-      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
-      "tags": [
-        "open-session"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "unknown",
-      "instructor": null
-    },
-    {
-      "source": "studiotwothree",
-      "sourceUrl": "https://www.studiotwothree.org/adult-workshops",
-      "title": "Figure Drawing Night",
-      "date": "2026-03-17",
-      "startTime": "18:00",
-      "endTime": "21:00",
-      "location": "Studio Two Three",
-      "address": "109 W 15th St Richmond, VA 23224",
-      "cost": "$20",
-      "costValue": 20.0,
-      "url": "https://www.studiotwothree.org/classes/p/figure-drawing-night",
-      "description": "Figure drawing workshop with a professional nude model. Instructor Carter Helmandollar leads the session with short gestural poses, short poses, and longer poses. Artists bring their own materials; extra paper, pencils, and clipboards available.",
+      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
       "tags": [
         "open-session",
         "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "vmfa",
+      "sourceUrl": "https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing",
+      "title": "Figure Drawing [27]",
+      "date": "2026-03-21",
+      "startTime": "10:00",
+      "endTime": "16:00",
+      "location": "VMFA Studio School",
+      "address": "200 N Arthur Ashe Boulevard, Richmond, VA 23220",
+      "cost": "Member $80",
+      "costValue": 80.0,
+      "url": "https://www.vmfa.museum/classes/figure-drawing-27",
+      "description": "Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith. 1 session.",
+      "tags": [
+        "instructed",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "sold-out",
       "instructor": null
     },
     {
@@ -145,8 +126,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - April 12, 2026",
       "date": "2026-04-12",
       "startTime": "13:00",
@@ -161,12 +142,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - April 19, 2026",
       "date": "2026-04-19",
       "startTime": "13:00",
@@ -181,7 +162,7 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
@@ -205,8 +186,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - May 3, 2026",
       "date": "2026-05-03",
       "startTime": "13:00",
@@ -221,12 +202,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - May 17, 2026",
       "date": "2026-05-17",
       "startTime": "13:00",
@@ -241,7 +222,7 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
@@ -265,8 +246,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - June 7, 2026",
       "date": "2026-06-07",
       "startTime": "13:00",
@@ -281,12 +262,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - June 14, 2026",
       "date": "2026-06-14",
       "startTime": "13:00",
@@ -301,12 +282,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - July 5, 2026",
       "date": "2026-07-05",
       "startTime": "13:00",
@@ -321,12 +302,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - July 19, 2026",
       "date": "2026-07-19",
       "startTime": "13:00",
@@ -341,12 +322,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - August 2, 2026",
       "date": "2026-08-02",
       "startTime": "13:00",
@@ -361,12 +342,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - August 16, 2026",
       "date": "2026-08-16",
       "startTime": "13:00",
@@ -381,12 +362,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - September 6, 2026",
       "date": "2026-09-06",
       "startTime": "13:00",
@@ -401,12 +382,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - September 20, 2026",
       "date": "2026-09-20",
       "startTime": "13:00",
@@ -421,12 +402,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - October 4, 2026",
       "date": "2026-10-04",
       "startTime": "13:00",
@@ -441,12 +422,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - October 18, 2026",
       "date": "2026-10-18",
       "startTime": "13:00",
@@ -461,12 +442,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - November 1, 2026",
       "date": "2026-11-01",
       "startTime": "13:00",
@@ -481,12 +462,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - November 15, 2026",
       "date": "2026-11-15",
       "startTime": "13:00",
@@ -501,12 +482,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - December 6, 2026",
       "date": "2026-12-06",
       "startTime": "13:00",
@@ -521,12 +502,12 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - December 20, 2026",
       "date": "2026-12-20",
       "startTime": "13:00",
@@ -541,7 +522,7 @@
         "open-session"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
       "instructor": null
     }
   ]
