@@ -1,27 +1,6 @@
 {
-  "lastUpdated": "2026-03-08T12:47:42Z",
+  "lastUpdated": "2026-03-09T13:19:43Z",
   "events": [
-    {
-      "source": "visarts",
-      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
-      "title": "Figure Drawing (S-D)",
-      "date": "2026-03-08",
-      "startTime": "10:00",
-      "endTime": "12:30",
-      "location": "Visual Arts Center of Richmond",
-      "address": "1812 W Main St, Richmond, VA 23220",
-      "cost": "$7",
-      "costValue": 7.0,
-      "url": "https://www.visarts.org/classes/figure-drawing-s-d-2/",
-      "description": "Open figure drawing session. Instructor: Mira Anniballi. $3 tuition + ~$4 model fee. All levels welcome.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
     {
       "source": "artspace",
       "sourceUrl": "https://www.artspacegallery.org/",
@@ -31,10 +10,30 @@
       "endTime": "20:30",
       "location": "Artspace",
       "address": "2833-A Hathaway Rd, Richmond, VA 23225",
-      "cost": "$10 donation",
+      "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd",
       "description": "Figure Drawing sessions every second Tuesday of the month. Draw a live model for 2.5 hours. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Drawing Open Session - March 15, 2026",
+      "date": "2026-03-15",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/drawing-open-session-march-15-2026-tickets-1979625057838",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session",
         "nude"
@@ -46,16 +45,16 @@
     {
       "source": "eventbrite",
       "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "Drawing Open Session - March 15, 2026",
+      "title": "March Drawing Club",
       "date": "2026-03-15",
-      "startTime": "13:00",
+      "startTime": "14:00",
       "endTime": "16:00",
-      "location": "Art Works Inc",
-      "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/drawing-open-session-march-15-2026-tickets-1979625057838",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists. Bring your own materials and easel. Donation pays the model's fee.",
+      "location": "Gallery5",
+      "address": "200 West Marshall Street, Richmond, VA 23220",
+      "cost": "Free",
+      "costValue": 0,
+      "url": "https://www.eventbrite.com/e/march-drawing-club-tickets-1981569357290",
+      "description": "Gallery5 Drawing Club session - no cost to attend. Bring drawing materials.",
       "tags": [
         "open-session"
       ],
@@ -66,16 +65,36 @@
     {
       "source": "artspace",
       "sourceUrl": "https://www.artspacegallery.org/",
-      "title": "Morning Figure Drawing at Artspace on March 17, 2026",
+      "title": "Morning Figure Drawing at Artspace",
       "date": "2026-03-17",
       "startTime": "10:30",
       "endTime": "11:30",
       "location": "Artspace",
       "address": "2833-A Hathaway Rd, Richmond, VA 23225",
-      "cost": "$10 donation",
+      "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb",
-      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
+      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "studiotwothree",
+      "sourceUrl": "https://www.studiotwothree.org/adult-workshops",
+      "title": "Figure Drawing Night",
+      "date": "2026-03-17",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "location": "Studio Two Three",
+      "address": "109 W 15th St Richmond, VA 23224",
+      "cost": "$20",
+      "costValue": 20.0,
+      "url": "https://www.studiotwothree.org/classes/p/figure-drawing-night",
+      "description": "3-hour figure drawing workshop with a professional nude model. Instructor Carter Helmandollar will call poses \u2014 starting with short gestural poses and concluding with longer poses. Bring your own drawing/painting/sculpting materials.",
       "tags": [
         "open-session",
         "nude"
@@ -85,8 +104,8 @@
       "instructor": null
     },
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
       "title": "Queer Life Drawing",
       "date": "2026-03-18",
       "startTime": "18:00",
@@ -96,9 +115,10 @@
       "cost": "Donation",
       "costValue": null,
       "url": "https://www.eventbrite.com/e/queer-life-drawing-tickets-1984671499882",
-      "description": "Chill vibe life drawing session celebrating queer bodies and creativity. Come draw and hang out in person. All skill levels welcome.",
+      "description": "Chill vibe life drawing session celebrating queer bodies and creativity. Whether a pro or just want to doodle, everyone's welcome. Bring your own art supplies.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -116,7 +136,7 @@
       "cost": "Member $80",
       "costValue": 80.0,
       "url": "https://www.vmfa.museum/classes/figure-drawing-27",
-      "description": "Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith. 1 session.",
+      "description": "Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith. (1 session)",
       "tags": [
         "instructed",
         "nude"
@@ -137,29 +157,52 @@
       "cost": "$10 at the door",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Monthly figure drawing open studio with a live model in a relaxed, supportive environment. Artists of all levels welcome. Bring your own drawing materials; tables and chairs provided. No registration required.",
+      "description": "Figure drawing open studio with a live model in a relaxed, supportive environment. Artists of all levels welcome. Bring your own drawing materials; tables and chairs provided. Ages 18+. No registration required.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
       "instructor": null
     },
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
       "title": "Figure Drawing Open Session - April 12, 2026",
       "date": "2026-04-12",
       "startTime": "13:00",
       "endTime": "16:00",
       "location": "Art Works Inc",
       "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": null,
-      "costValue": null,
+      "cost": "$12.51",
+      "costValue": 12.51,
       "url": "https://www.eventbrite.com/e/figure-drawing-open-session-april-12-2026-tickets-1979888217957",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists. Bring your own materials and easel. Donation pays the model's fee. Tickets on sale March 16, 2026.",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - April 19, 2026",
+      "date": "2026-04-19",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-april-19-2026-tickets-1979889468698",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
@@ -177,12 +220,55 @@
       "cost": "$10 at the door",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Monthly figure drawing open studio with a live model in a relaxed, supportive environment. Artists of all levels welcome. Bring your own drawing materials; tables and chairs provided. No registration required.",
+      "description": "Figure drawing open studio with a live model in a relaxed, supportive environment. Artists of all levels welcome. Bring your own drawing materials; tables and chairs provided. Ages 18+. No registration required.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - May 3, 2026",
+      "date": "2026-05-03",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-may-3-2026-tickets-1979889690361",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - May 17, 2026",
+      "date": "2026-05-17",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-may-17-2026-tickets-1979890086546",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
@@ -197,12 +283,139 @@
       "cost": "$10 at the door",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Monthly figure drawing open studio with a live model in a relaxed, supportive environment. Artists of all levels welcome. Bring your own drawing materials; tables and chairs provided. No registration required.",
+      "description": "Figure drawing open studio with a live model in a relaxed, supportive environment. Artists of all levels welcome. Bring your own drawing materials; tables and chairs provided. Ages 18+. No registration required.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - June 7, 2026",
+      "date": "2026-06-07",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-june-7-2026-tickets-1979890762568",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - June 14, 2026",
+      "date": "2026-06-14",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-june-14-2026-tickets-1979891337287",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - July 5, 2026",
+      "date": "2026-07-05",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-july-5-2026-tickets-1979891950120",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - July 19, 2026",
+      "date": "2026-07-19",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-july-19-2026-tickets-1979892733463",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - August 2, 2026",
+      "date": "2026-08-02",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-august-2-2026-tickets-1979893299155",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artworks",
+      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "title": "Figure Drawing Open Session - August 16, 2026",
+      "date": "2026-08-16",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-august-16-2026-tickets-1979893652211",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
       "instructor": null
     }
   ]
