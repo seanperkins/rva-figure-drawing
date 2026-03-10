@@ -8,7 +8,7 @@ X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 UID:2026-03-10-1800-artspace@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260310T180000
 DTEND:20260310T203000
 SUMMARY:Evening Figure Drawing
@@ -17,8 +17,8 @@ DESCRIPTION:Figure Drawing sessions every second Tuesday of the month. Draw a li
 URL:https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-03-15-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+UID:2026-03-15-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260310T120335Z
 DTSTART:20260315T130000
 DTEND:20260315T160000
 SUMMARY:Drawing Open Session - March 15\, 2026
@@ -27,18 +27,8 @@ DESCRIPTION:Open figure drawing session hosted by RVA Thriving Artists at Art Wo
 URL:https://www.eventbrite.com/e/drawing-open-session-march-15-2026-tickets-1979625057838
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-03-15-1400-eventbrite@rvafiguredrawing
-DTSTAMP:20260309T131943Z
-DTSTART:20260315T140000
-DTEND:20260315T160000
-SUMMARY:March Drawing Club
-LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Gallery5 Drawing Club session - no cost to attend. Bring drawing materials.\\n\\nCost: Free\\n\\nRegister: https://www.eventbrite.com/e/march-drawing-club-tickets-1981569357290
-URL:https://www.eventbrite.com/e/march-drawing-club-tickets-1981569357290
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-03-17-1030-artspace@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260317T103000
 DTEND:20260317T113000
 SUMMARY:Morning Figure Drawing at Artspace
@@ -48,7 +38,7 @@ URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-ar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-17-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260317T180000
 DTEND:20260317T210000
 SUMMARY:Figure Drawing Night
@@ -57,18 +47,18 @@ DESCRIPTION:3-hour figure drawing workshop with a professional nude model. Instr
 URL:https://www.studiotwothree.org/classes/p/figure-drawing-night
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-03-18-1800-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+UID:2026-03-18-1800-eventbrite@rvafiguredrawing
+DTSTAMP:20260310T120335Z
 DTSTART:20260318T180000
 DTEND:20260318T200000
 SUMMARY:Queer Life Drawing
 LOCATION:Gold Lion Community Cafe\, 1012 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Chill vibe life drawing session celebrating queer bodies and creativity. Whether a pro or just want to doodle\, everyone's welcome. Bring your own art supplies.\\n\\nCost: Donation\\n\\nRegister: https://www.eventbrite.com/e/queer-life-drawing-tickets-1984671499882
+DESCRIPTION:Chill vibe life drawing session celebrating queer bodies and creativity. All skill levels welcome. Bring your favorite art supplies.\\n\\nCost: Donation\\n\\nRegister: https://www.eventbrite.com/e/queer-life-drawing-tickets-1984671499882
 URL:https://www.eventbrite.com/e/queer-life-drawing-tickets-1984671499882
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-21-1000-vmfa@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260321T100000
 DTEND:20260321T160000
 SUMMARY:Figure Drawing [27]
@@ -77,8 +67,18 @@ DESCRIPTION:Start by exploring a variety of drawings of the human form by other 
 URL:https://www.vmfa.museum/classes/figure-drawing-27
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-03-25-1945-unkindness-art@rvafiguredrawing
+DTSTAMP:20260310T120335Z
+DTSTART:20260325T194500
+DTEND:20260325T220000
+SUMMARY:18+ Figure Drawing: March Session
+LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
+DESCRIPTION:Nude figure drawing series open to all artists 18+. March session features a long pose with a single model. Tickets required in advance\, space limited. Bring your own drawing materials.\\n\\nCost: $10.00\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-march-2026
+URL:https://www.unkindnessart.com/events/nude-figure-drawing-march-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-03-26-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260326T180000
 DTEND:20260326T203000
 SUMMARY:Figure Drawing Open Studio
@@ -87,8 +87,8 @@ DESCRIPTION:Figure drawing open studio with a live model in a relaxed\, supporti
 URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-04-12-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+UID:2026-04-12-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260310T120335Z
 DTSTART:20260412T130000
 DTEND:20260412T160000
 SUMMARY:Figure Drawing Open Session - April 12\, 2026
@@ -98,7 +98,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-april-12-2026-ticke
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-19-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260419T130000
 DTEND:20260419T160000
 SUMMARY:Figure Drawing Open Session - April 19\, 2026
@@ -107,8 +107,18 @@ DESCRIPTION:Open figure drawing session hosted by RVA Thriving Artists at Art Wo
 URL:https://www.eventbrite.com/e/figure-drawing-open-session-april-19-2026-tickets-1979889468698
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-04-29-1945-unkindness-art@rvafiguredrawing
+DTSTAMP:20260310T120335Z
+DTSTART:20260429T194500
+DTEND:20260429T220000
+SUMMARY:18+ Figure Drawing: April Session
+LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
+DESCRIPTION:Nude figure drawing series open to all artists 18+. Monthly session on the last Wednesday of the month\, 7:45-10pm. Tickets required in advance\, space limited.\\n\\nCost: $10.00\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
+URL:https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-04-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260430T180000
 DTEND:20260430T203000
 SUMMARY:Figure Drawing Open Studio
@@ -118,7 +128,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-03-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260503T130000
 DTEND:20260503T160000
 SUMMARY:Figure Drawing Open Session - May 3\, 2026
@@ -128,7 +138,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-may-3-2026-tickets-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-17-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260517T130000
 DTEND:20260517T160000
 SUMMARY:Figure Drawing Open Session - May 17\, 2026
@@ -137,8 +147,18 @@ DESCRIPTION:Open figure drawing session hosted by RVA Thriving Artists at Art Wo
 URL:https://www.eventbrite.com/e/figure-drawing-open-session-may-17-2026-tickets-1979890086546
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-27-1945-unkindness-art@rvafiguredrawing
+DTSTAMP:20260310T120335Z
+DTSTART:20260527T194500
+DTEND:20260527T220000
+SUMMARY:18+ Figure Drawing: May Session
+LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
+DESCRIPTION:Nude figure drawing series open to all artists 18+. Monthly session on the last Wednesday of the month\, 7:45-10pm. Tickets required in advance\, space limited.\\n\\nCost: $10.00\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-may-2026
+URL:https://www.unkindnessart.com/events/nude-figure-drawing-may-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-05-28-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260528T180000
 DTEND:20260528T203000
 SUMMARY:Figure Drawing Open Studio
@@ -148,7 +168,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-07-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260607T130000
 DTEND:20260607T160000
 SUMMARY:Figure Drawing Open Session - June 7\, 2026
@@ -158,7 +178,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-june-7-2026-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-14-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260614T130000
 DTEND:20260614T160000
 SUMMARY:Figure Drawing Open Session - June 14\, 2026
@@ -168,7 +188,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-june-14-2026-ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-05-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260705T130000
 DTEND:20260705T160000
 SUMMARY:Figure Drawing Open Session - July 5\, 2026
@@ -178,7 +198,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-july-5-2026-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-19-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260719T130000
 DTEND:20260719T160000
 SUMMARY:Figure Drawing Open Session - July 19\, 2026
@@ -188,7 +208,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-july-19-2026-ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-02-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260802T130000
 DTEND:20260802T160000
 SUMMARY:Figure Drawing Open Session - August 2\, 2026
@@ -198,7 +218,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-august-2-2026-ticke
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-16-1300-artworks@rvafiguredrawing
-DTSTAMP:20260309T131943Z
+DTSTAMP:20260310T120335Z
 DTSTART:20260816T130000
 DTEND:20260816T160000
 SUMMARY:Figure Drawing Open Session - August 16\, 2026

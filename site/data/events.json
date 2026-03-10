@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T13:19:43Z",
+  "lastUpdated": "2026-03-10T12:03:35Z",
   "events": [
     {
       "source": "artspace",
@@ -22,8 +22,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Drawing Open Session - March 15, 2026",
       "date": "2026-03-15",
       "startTime": "13:00",
@@ -37,26 +37,6 @@
       "tags": [
         "open-session",
         "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "March Drawing Club",
-      "date": "2026-03-15",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "location": "Gallery5",
-      "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "Free",
-      "costValue": 0,
-      "url": "https://www.eventbrite.com/e/march-drawing-club-tickets-1981569357290",
-      "description": "Gallery5 Drawing Club session - no cost to attend. Bring drawing materials.",
-      "tags": [
-        "open-session"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -104,8 +84,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Queer Life Drawing",
       "date": "2026-03-18",
       "startTime": "18:00",
@@ -113,9 +93,9 @@
       "location": "Gold Lion Community Cafe",
       "address": "1012 Hull Street, Richmond, VA 23224",
       "cost": "Donation",
-      "costValue": null,
+      "costValue": 0,
       "url": "https://www.eventbrite.com/e/queer-life-drawing-tickets-1984671499882",
-      "description": "Chill vibe life drawing session celebrating queer bodies and creativity. Whether a pro or just want to doodle, everyone's welcome. Bring your own art supplies.",
+      "description": "Chill vibe life drawing session celebrating queer bodies and creativity. All skill levels welcome. Bring your favorite art supplies.",
       "tags": [
         "open-session",
         "nude"
@@ -146,6 +126,27 @@
       "instructor": null
     },
     {
+      "source": "unkindness-art",
+      "sourceUrl": "https://www.unkindnessart.com/events",
+      "title": "18+ Figure Drawing: March Session",
+      "date": "2026-03-25",
+      "startTime": "19:45",
+      "endTime": "22:00",
+      "location": "Unkindness Art",
+      "address": "2923 North Avenue, Richmond, VA 23222",
+      "cost": "$10.00",
+      "costValue": 10.0,
+      "url": "https://www.unkindnessart.com/events/nude-figure-drawing-march-2026",
+      "description": "Nude figure drawing series open to all artists 18+. March session features a long pose with a single model. Tickets required in advance, space limited. Bring your own drawing materials.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "hanover-arts",
       "sourceUrl": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
       "title": "Figure Drawing Open Studio",
@@ -167,8 +168,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - April 12, 2026",
       "date": "2026-04-12",
       "startTime": "13:00",
@@ -206,6 +207,27 @@
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "unkindness-art",
+      "sourceUrl": "https://www.unkindnessart.com/events",
+      "title": "18+ Figure Drawing: April Session",
+      "date": "2026-04-29",
+      "startTime": "19:45",
+      "endTime": "22:00",
+      "location": "Unkindness Art",
+      "address": "2923 North Avenue, Richmond, VA 23222",
+      "cost": "$10.00",
+      "costValue": 10.0,
+      "url": "https://www.unkindnessart.com/events/nude-figure-drawing-april-2026",
+      "description": "Nude figure drawing series open to all artists 18+. Monthly session on the last Wednesday of the month, 7:45-10pm. Tickets required in advance, space limited.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
       "instructor": null
     },
     {
@@ -269,6 +291,27 @@
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "unkindness-art",
+      "sourceUrl": "https://www.unkindnessart.com/events",
+      "title": "18+ Figure Drawing: May Session",
+      "date": "2026-05-27",
+      "startTime": "19:45",
+      "endTime": "22:00",
+      "location": "Unkindness Art",
+      "address": "2923 North Avenue, Richmond, VA 23222",
+      "cost": "$10.00",
+      "costValue": 10.0,
+      "url": "https://www.unkindnessart.com/events/nude-figure-drawing-may-2026",
+      "description": "Nude figure drawing series open to all artists 18+. Monthly session on the last Wednesday of the month, 7:45-10pm. Tickets required in advance, space limited.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
       "instructor": null
     },
     {
