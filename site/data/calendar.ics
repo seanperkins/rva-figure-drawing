@@ -8,7 +8,7 @@ X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 UID:2026-03-25-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260316T143303Z
+DTSTAMP:20260317T140707Z
 DTSTART:20260325T194500
 DTEND:20260325T220000
 SUMMARY:18+ Figure Drawing: March Session
@@ -18,7 +18,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-march-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-26-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260316T143303Z
+DTSTAMP:20260317T140707Z
 DTSTART:20260326T180000
 DTEND:20260326T203000
 SUMMARY:Figure Drawing Open Studio
@@ -28,7 +28,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260316T143303Z
+DTSTAMP:20260317T140707Z
 DTSTART:20260429T194500
 DTEND:20260429T220000
 SUMMARY:18+ Figure Drawing: April Session
@@ -38,7 +38,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260316T143303Z
+DTSTAMP:20260317T140707Z
 DTSTART:20260430T180000
 DTEND:20260430T203000
 SUMMARY:Figure Drawing Open Studio
@@ -48,7 +48,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-27-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260316T143303Z
+DTSTAMP:20260317T140707Z
 DTSTART:20260527T194500
 DTEND:20260527T220000
 SUMMARY:18+ Figure Drawing: May Session
@@ -58,7 +58,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-may-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-28-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260316T143303Z
+DTSTAMP:20260317T140707Z
 DTSTART:20260528T180000
 DTEND:20260528T203000
 SUMMARY:Figure Drawing Open Studio
