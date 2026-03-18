@@ -1,6 +1,47 @@
 {
-  "lastUpdated": "2026-03-17T14:07:07Z",
+  "lastUpdated": "2026-03-18T12:22:55Z",
   "events": [
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
+      "title": "Queer Life Drawing",
+      "date": "2026-03-18",
+      "startTime": null,
+      "endTime": null,
+      "location": "Gold Lion Community Cafe",
+      "address": "1012 Hull Street, Richmond, VA 23224",
+      "cost": null,
+      "costValue": null,
+      "url": "https://www.eventbrite.com/e/queer-life-drawing-tickets-1984671499882",
+      "description": "Chill vibe life drawing sesh celebrating queer bodies and creativity, come draw and hang out in person!",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "vmfa",
+      "sourceUrl": "https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing",
+      "title": "Figure Drawing [27]",
+      "date": "2026-03-21",
+      "startTime": "10:00",
+      "endTime": "16:00",
+      "location": "VMFA Studio School",
+      "address": "200 N Arthur Ashe Blvd, Richmond, VA 23220",
+      "cost": "Member $80",
+      "costValue": 80.0,
+      "url": "https://www.vmfa.museum/classes/figure-drawing-27",
+      "description": "Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith",
+      "tags": [
+        "instructed",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "sold-out",
+      "instructor": null
+    },
     {
       "source": "unkindness-art",
       "sourceUrl": "https://www.unkindnessart.com/events",
@@ -35,6 +76,46 @@
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
       "description": "Figure drawing open studio with live model. All skill levels welcome. Bring your own drawing materials; tables and chairs provided. Ages 18+.",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
+      "title": "Drawing Open Session - April 12, 2026",
+      "date": "2026-04-12",
+      "startTime": null,
+      "endTime": null,
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": null,
+      "costValue": null,
+      "url": "https://www.eventbrite.com/e/drawing-open-session-april-12-2026-tickets-1979625160144",
+      "description": "Open Figure Drawing Sessions",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
+      "title": "Figure Drawing Open Session - April 19, 2026",
+      "date": "2026-04-19",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-april-19-2026-tickets-1979889468698",
+      "description": "Open Figure Drawing Session",
       "tags": [
         "open-session"
       ],
