@@ -1,26 +1,6 @@
 {
-  "lastUpdated": "2026-03-18T12:22:55Z",
+  "lastUpdated": "2026-03-19T14:36:34Z",
   "events": [
-    {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "Queer Life Drawing",
-      "date": "2026-03-18",
-      "startTime": null,
-      "endTime": null,
-      "location": "Gold Lion Community Cafe",
-      "address": "1012 Hull Street, Richmond, VA 23224",
-      "cost": null,
-      "costValue": null,
-      "url": "https://www.eventbrite.com/e/queer-life-drawing-tickets-1984671499882",
-      "description": "Chill vibe life drawing sesh celebrating queer bodies and creativity, come draw and hang out in person!",
-      "tags": [
-        "open-session"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "unknown",
-      "instructor": null
-    },
     {
       "source": "vmfa",
       "sourceUrl": "https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing",
@@ -54,7 +34,7 @@
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-march-2026",
-      "description": "Ongoing nude figure drawing series open to all artists 18+. March session features a long pose with a single model. Tickets required, nonrefundable. No phones or photos allowed during event.",
+      "description": "Ongoing nude figure drawing series open to all artists 18+. March session features a long pose with a single model. Tickets required in advance. 18+ ID required at door. No phones or photos during event.",
       "tags": [
         "open-session",
         "nude"
@@ -75,49 +55,10 @@
       "cost": "$10 at the door",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Figure drawing open studio with live model. All skill levels welcome. Bring your own drawing materials; tables and chairs provided. Ages 18+.",
+      "description": "Monthly figure drawing open studio with a live model. Tables and chairs provided; bring your own drawing materials. Ages 18+, no registration required.",
       "tags": [
-        "open-session"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "Drawing Open Session - April 12, 2026",
-      "date": "2026-04-12",
-      "startTime": null,
-      "endTime": null,
-      "location": "Art Works Inc",
-      "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": null,
-      "costValue": null,
-      "url": "https://www.eventbrite.com/e/drawing-open-session-april-12-2026-tickets-1979625160144",
-      "description": "Open Figure Drawing Sessions",
-      "tags": [
-        "open-session"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "unknown",
-      "instructor": null
-    },
-    {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "Figure Drawing Open Session - April 19, 2026",
-      "date": "2026-04-19",
-      "startTime": "13:00",
-      "endTime": "16:00",
-      "location": "Art Works Inc",
-      "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-april-19-2026-tickets-1979889468698",
-      "description": "Open Figure Drawing Session",
-      "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -135,7 +76,7 @@
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-april-2026",
-      "description": "Ongoing nude figure drawing series open to all artists 18+. April session features short poses with a single model. Tickets required, nonrefundable. No phones or photos allowed during event.",
+      "description": "Ongoing nude figure drawing series open to all artists 18+. April session features short poses with a single model \u2014 ideal for quick sketches and gestural drawings. Tickets required in advance. 18+ ID required at door.",
       "tags": [
         "open-session",
         "nude"
@@ -156,9 +97,10 @@
       "cost": "$10 at the door",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Figure drawing open studio with live model. All skill levels welcome. Bring your own drawing materials; tables and chairs provided. Ages 18+.",
+      "description": "Monthly figure drawing open studio with a live model. Tables and chairs provided; bring your own drawing materials. Ages 18+, no registration required.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -176,7 +118,7 @@
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-may-2026",
-      "description": "Ongoing nude figure drawing series open to all artists 18+. May session features a long pose with a single model. Tickets required, nonrefundable. No phones or photos allowed during event.",
+      "description": "Ongoing nude figure drawing series open to all artists 18+. May session features a long pose with a single model. Tickets required in advance. 18+ ID required at door. No phones or photos during event.",
       "tags": [
         "open-session",
         "nude"
@@ -197,9 +139,10 @@
       "cost": "$10 at the door",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Figure drawing open studio with live model. All skill levels welcome. Bring your own drawing materials; tables and chairs provided. Ages 18+.",
+      "description": "Monthly figure drawing open studio with a live model. Tables and chairs provided; bring your own drawing materials. Ages 18+, no registration required.",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
