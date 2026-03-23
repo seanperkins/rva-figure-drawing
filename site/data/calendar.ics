@@ -7,18 +7,8 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-03-21-1000-vmfa@rvafiguredrawing
-DTSTAMP:20260319T143634Z
-DTSTART:20260321T100000
-DTEND:20260321T160000
-SUMMARY:Figure Drawing [27]
-LOCATION:VMFA Studio School\, 200 N Arthur Ashe Blvd\, Richmond\, VA 23220
-DESCRIPTION:Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model\, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith\\n\\nCost: Member $80\\n\\nRegister: https://www.vmfa.museum/classes/figure-drawing-27
-URL:https://www.vmfa.museum/classes/figure-drawing-27
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-03-25-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260319T143634Z
+DTSTAMP:20260323T121111Z
 DTSTART:20260325T194500
 DTEND:20260325T220000
 SUMMARY:18+ Figure Drawing: March Session
@@ -28,7 +18,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-march-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-26-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260319T143634Z
+DTSTAMP:20260323T121111Z
 DTSTART:20260326T180000
 DTEND:20260326T203000
 SUMMARY:Figure Drawing Open Studio
@@ -38,7 +28,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260319T143634Z
+DTSTAMP:20260323T121111Z
 DTSTART:20260429T194500
 DTEND:20260429T220000
 SUMMARY:18+ Figure Drawing: April Session
@@ -48,7 +38,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260319T143634Z
+DTSTAMP:20260323T121111Z
 DTSTART:20260430T180000
 DTEND:20260430T203000
 SUMMARY:Figure Drawing Open Studio
@@ -58,7 +48,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-27-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260319T143634Z
+DTSTAMP:20260323T121111Z
 DTSTART:20260527T194500
 DTEND:20260527T220000
 SUMMARY:18+ Figure Drawing: May Session
@@ -68,7 +58,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-may-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-28-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260319T143634Z
+DTSTAMP:20260323T121111Z
 DTSTART:20260528T180000
 DTEND:20260528T203000
 SUMMARY:Figure Drawing Open Studio
