@@ -1,67 +1,46 @@
 {
-  "lastUpdated": "2026-03-23T12:11:11Z",
+  "lastUpdated": "2026-03-30T13:48:27Z",
   "events": [
     {
-      "source": "vmfa",
-      "sourceUrl": "https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing",
-      "title": "Figure Drawing [27]",
-      "date": "2026-03-21",
-      "startTime": "10:00",
-      "endTime": "16:00",
-      "location": "VMFA Studio School",
-      "address": "200 N Arthur Ashe Blvd, Richmond, VA 23220",
-      "cost": "Member $80",
-      "costValue": 80.0,
-      "url": "https://www.vmfa.museum/classes/figure-drawing-27",
-      "description": "Start by exploring a variety of drawings of the human form by other artists. Then with guidance from the instructor and working from a live model, learn to create expressive portraits in charcoal and pencil. Prerequisites: basic drawing skills. Instructor: Amy Smith",
-      "tags": [
-        "instructed",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "sold-out",
-      "instructor": null
-    },
-    {
-      "source": "unkindness-art",
-      "sourceUrl": "https://www.unkindnessart.com/events",
-      "title": "18+ Figure Drawing: March Session",
-      "date": "2026-03-25",
-      "startTime": "19:45",
-      "endTime": "22:00",
-      "location": "Unkindness Art",
-      "address": "2923 North Avenue, Richmond, VA 23222",
-      "cost": "$10",
-      "costValue": 10.0,
-      "url": "https://www.unkindnessart.com/events/nude-figure-drawing-march-2026",
-      "description": "Ongoing nude figure drawing series open to all artists 18+. March session features a long pose with a single model. Tickets required in advance. 18+ ID required at door. No phones or photos during event.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "hanover-arts",
-      "sourceUrl": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "title": "Figure Drawing Open Studio",
-      "date": "2026-03-26",
+      "source": "artspace",
+      "sourceUrl": "https://www.artspacegallery.org/",
+      "title": "Evening Figure Drawing",
+      "date": "2026-04-14",
       "startTime": "18:00",
       "endTime": "20:30",
-      "location": "Hanover Arts & Activities Center",
-      "address": "500 South Center Street, Ashland, VA 23005",
-      "cost": "$10 at the door",
+      "location": "Artspace",
+      "address": "2833-A Hathaway Rd, Richmond, VA 23225",
+      "cost": "$10",
       "costValue": 10.0,
-      "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Monthly figure drawing open studio with a live model. Tables and chairs provided; bring your own drawing materials. Ages 18+, no registration required.",
+      "url": "https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd-p2kkp",
+      "description": "Figure Drawing sessions every second Tuesday of the month. Draw a live model for 2.5 hours. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
       "tags": [
         "open-session",
         "nude"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "artspace",
+      "sourceUrl": "https://www.artspacegallery.org/",
+      "title": "Morning Figure Drawing at Artspace",
+      "date": "2026-04-21",
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "location": "Artspace",
+      "address": "2833-A Hathaway Rd, Richmond, VA 23225",
+      "cost": "$10",
+      "costValue": 10.0,
+      "url": "https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-rn7m4",
+      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. $10 donation at the door. Open session, all skill levels welcome. Must be over 18.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "unknown",
       "instructor": null
     },
     {
@@ -76,28 +55,7 @@
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-april-2026",
-      "description": "Ongoing nude figure drawing series open to all artists 18+. April session features short poses with a single model \u2014 ideal for quick sketches and gestural drawings. Tickets required in advance. 18+ ID required at door.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "hanover-arts",
-      "sourceUrl": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "title": "Figure Drawing Open Studio",
-      "date": "2026-04-30",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "location": "Hanover Arts & Activities Center",
-      "address": "500 South Center Street, Ashland, VA 23005",
-      "cost": "$10 at the door",
-      "costValue": 10.0,
-      "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Monthly figure drawing open studio with a live model. Tables and chairs provided; bring your own drawing materials. Ages 18+, no registration required.",
+      "description": "Ongoing nude figure drawing series open to all artists 18+. Short pose session featuring a single model. Last Wednesday of every month, 7:45-10pm.",
       "tags": [
         "open-session",
         "nude"
@@ -118,28 +76,7 @@
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-may-2026",
-      "description": "Ongoing nude figure drawing series open to all artists 18+. May session features a long pose with a single model. Tickets required in advance. 18+ ID required at door. No phones or photos during event.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "hanover-arts",
-      "sourceUrl": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "title": "Figure Drawing Open Studio",
-      "date": "2026-05-28",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "location": "Hanover Arts & Activities Center",
-      "address": "500 South Center Street, Ashland, VA 23005",
-      "cost": "$10 at the door",
-      "costValue": 10.0,
-      "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Monthly figure drawing open studio with a live model. Tables and chairs provided; bring your own drawing materials. Ages 18+, no registration required.",
+      "description": "Ongoing nude figure drawing series open to all artists 18+. Long pose session featuring a single model. Last Wednesday of every month, 7:45-10pm.",
       "tags": [
         "open-session",
         "nude"

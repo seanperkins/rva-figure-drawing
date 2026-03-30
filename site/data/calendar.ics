@@ -7,63 +7,43 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-03-25-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260323T121111Z
-DTSTART:20260325T194500
-DTEND:20260325T220000
-SUMMARY:18+ Figure Drawing: March Session
-LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. March session features a long pose with a single model. Tickets required in advance. 18+ ID required at door. No phones or photos during event.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-march-2026
-URL:https://www.unkindnessart.com/events/nude-figure-drawing-march-2026
+UID:2026-04-14-1800-artspace@rvafiguredrawing
+DTSTAMP:20260330T134827Z
+DTSTART:20260414T180000
+DTEND:20260414T203000
+SUMMARY:Evening Figure Drawing
+LOCATION:Artspace\, 2833-A Hathaway Rd\, Richmond\, VA 23225
+DESCRIPTION:Figure Drawing sessions every second Tuesday of the month. Draw a live model for 2.5 hours. $10 donation at the door. Open session\, all skill levels welcome. Must be over 18.\\n\\nCost: $10\\n\\nRegister: https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd-p2kkp
+URL:https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd-p2kkp
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-03-26-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260323T121111Z
-DTSTART:20260326T180000
-DTEND:20260326T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Monthly figure drawing open studio with a live model. Tables and chairs provided\; bring your own drawing materials. Ages 18+\, no registration required.\\n\\nCost: $10 at the door\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+UID:2026-04-21-1030-artspace@rvafiguredrawing
+DTSTAMP:20260330T134827Z
+DTSTART:20260421T103000
+DTEND:20260421T123000
+SUMMARY:Morning Figure Drawing at Artspace
+LOCATION:Artspace\, 2833-A Hathaway Rd\, Richmond\, VA 23225
+DESCRIPTION:Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. $10 donation at the door. Open session\, all skill levels welcome. Must be over 18.\\n\\nCost: $10\\n\\nRegister: https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-rn7m4
+URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-rn7m4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260323T121111Z
+DTSTAMP:20260330T134827Z
 DTSTART:20260429T194500
 DTEND:20260429T220000
 SUMMARY:18+ Figure Drawing: April Session
 LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. April session features short poses with a single model — ideal for quick sketches and gestural drawings. Tickets required in advance. 18+ ID required at door.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
+DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. Short pose session featuring a single model. Last Wednesday of every month\, 7:45-10pm.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
 URL:https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-04-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260323T121111Z
-DTSTART:20260430T180000
-DTEND:20260430T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Monthly figure drawing open studio with a live model. Tables and chairs provided\; bring your own drawing materials. Ages 18+\, no registration required.\\n\\nCost: $10 at the door\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-05-27-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260323T121111Z
+DTSTAMP:20260330T134827Z
 DTSTART:20260527T194500
 DTEND:20260527T220000
 SUMMARY:18+ Figure Drawing: May Session
 LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. May session features a long pose with a single model. Tickets required in advance. 18+ ID required at door. No phones or photos during event.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-may-2026
+DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. Long pose session featuring a single model. Last Wednesday of every month\, 7:45-10pm.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-may-2026
 URL:https://www.unkindnessart.com/events/nude-figure-drawing-may-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-05-28-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260323T121111Z
-DTSTART:20260528T180000
-DTEND:20260528T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Monthly figure drawing open studio with a live model. Tables and chairs provided\; bring your own drawing materials. Ages 18+\, no registration required.\\n\\nCost: $10 at the door\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 END:VCALENDAR
