@@ -8,7 +8,7 @@ X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 UID:2026-04-14-1800-artspace@rvafiguredrawing
-DTSTAMP:20260330T134827Z
+DTSTAMP:20260406T131939Z
 DTSTART:20260414T180000
 DTEND:20260414T203000
 SUMMARY:Evening Figure Drawing
@@ -18,7 +18,7 @@ URL:https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-21-1030-artspace@rvafiguredrawing
-DTSTAMP:20260330T134827Z
+DTSTAMP:20260406T131939Z
 DTSTART:20260421T103000
 DTEND:20260421T123000
 SUMMARY:Morning Figure Drawing at Artspace
@@ -28,7 +28,7 @@ URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-ar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260330T134827Z
+DTSTAMP:20260406T131939Z
 DTSTART:20260429T194500
 DTEND:20260429T220000
 SUMMARY:18+ Figure Drawing: April Session
@@ -38,7 +38,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-april-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-27-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260330T134827Z
+DTSTAMP:20260406T131939Z
 DTSTART:20260527T194500
 DTEND:20260527T220000
 SUMMARY:18+ Figure Drawing: May Session
