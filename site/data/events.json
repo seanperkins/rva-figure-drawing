@@ -1,47 +1,6 @@
 {
-  "lastUpdated": "2026-05-18T12:04:50Z",
+  "lastUpdated": "2026-05-25T12:23:21Z",
   "events": [
-    {
-      "source": "artspace",
-      "sourceUrl": "https://www.artspacegallery.org/",
-      "title": "Evening Figure Drawing",
-      "date": "2026-05-12",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "location": "Artspace",
-      "address": "2833-A Hathaway Rd, Richmond, VA",
-      "cost": "$10",
-      "costValue": 10.0,
-      "url": "https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd-p2kkp-smc6z-h2r4p",
-      "description": "Figure Drawing sessions every second Tuesday of the month. Draw a live model for 2.5 hours! $10 donation at the door. Open session, all skill levels welcome. Must be over 18. Limited space.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
-      "title": "Figure Drawing Open Session - May 17, 2026",
-      "date": "2026-05-17",
-      "startTime": "13:00",
-      "endTime": "16:00",
-      "location": "Art Works Inc",
-      "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-may-17-2026-tickets-1979890086546",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
-      "tags": [
-        "open-session"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
     {
       "source": "unkindness-art",
       "sourceUrl": "https://www.unkindnessart.com/events",
@@ -51,10 +10,10 @@
       "endTime": "22:00",
       "location": "Unkindness Art",
       "address": "2923 North Avenue, Richmond, VA 23222",
-      "cost": "$10",
+      "cost": "$10.00",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-may-2026",
-      "description": "Ongoing nude figure drawing series open to all artists 18+. May session is a long pose session featuring a single model. Tickets must be purchased in advance; no guaranteed door tickets. Session starts promptly at 8pm (doors at 7:45pm). No phones or photos allowed. Bring your own supplies. Light refreshments provided.",
+      "description": "Ongoing nude figure drawing series open to artists 18+. Long pose session featuring a single model. Tickets must be purchased in advance; space is limited. Valid photo ID required at door.",
       "tags": [
         "open-session",
         "nude"
@@ -71,12 +30,13 @@
       "startTime": "18:00",
       "endTime": "21:00",
       "location": "Studio Two Three",
-      "address": "109 W 15th St, Richmond, VA 23224",
+      "address": "109 W 15th St Richmond, VA 23224",
       "cost": "$20.00",
       "costValue": 20.0,
       "url": "https://www.studiotwothree.org/classes/p/figure-drawing-528",
-      "description": "3-hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar calls poses \u2014 short gestural poses, short poses, and longer poses. Artists bring their own materials; extra paper/pencils/clipboards available. No photography permitted.",
+      "description": "3-hour figure drawing workshop with professional nude model. Instructor Carter Helmandollar calls poses, starting with short gestural poses and building to longer poses. Artists bring own materials; extra paper, pencils, and clipboards available.",
       "tags": [
+        "open-session",
         "instructed",
         "nude"
       ],
@@ -91,23 +51,22 @@
       "date": "2026-05-28",
       "startTime": "18:00",
       "endTime": "20:30",
-      "location": "Hanover Arts & Activities Center",
-      "address": "500 S. Center Street, Ashland, VA 23005",
+      "location": "Hanover Arts",
+      "address": null,
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Open figure drawing studio with live model. Ages 18+. No registration required, pay $10 at the door. Runs the last Thursday of every month.",
+      "description": "Open figure drawing studio, last Thursday of each month, 18+, no registration required",
       "tags": [
-        "open-session",
-        "nude"
+        "open-session"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - June 7, 2026",
       "date": "2026-06-07",
       "startTime": "13:00",
@@ -117,7 +76,7 @@
       "cost": "$12.51",
       "costValue": 12.51,
       "url": "https://www.eventbrite.com/e/figure-drawing-open-session-june-7-2026-tickets-1979890762568",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
@@ -134,10 +93,10 @@
       "endTime": "20:30",
       "location": "Artspace",
       "address": "2833-A Hathaway Rd, Richmond, VA",
-      "cost": "$10",
+      "cost": "$10 donation",
       "costValue": 10.0,
       "url": "https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb-8yms9-cjrcn-te9jw-ddhg6-5jwx5-z8zbd-p2kkp-smc6z",
-      "description": "Figure Drawing sessions every second Tuesday of the month. Draw a live model for 2.5 hours! $10 donation at the door. Open session, all skill levels welcome. Must be over 18. Limited space.",
+      "description": "Figure Drawing sessions every second Tuesday of the month. Draw a live model for 2.5 hours. Chairs provided, bring your own drawing materials. Open session, all skill levels welcome. Must be over 18. Limited space \u2013 arrive promptly.",
       "tags": [
         "open-session",
         "nude"
@@ -147,8 +106,50 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-A)",
+      "date": "2026-06-12",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788930",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (S-A)",
+      "date": "2026-06-14",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788937",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - June 14, 2026",
       "date": "2026-06-14",
       "startTime": "13:00",
@@ -158,7 +159,7 @@
       "cost": "$12.51",
       "costValue": 12.51,
       "url": "https://www.eventbrite.com/e/figure-drawing-open-session-june-14-2026-tickets-1979891337287",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
@@ -169,16 +170,37 @@
     {
       "source": "artspace",
       "sourceUrl": "https://www.artspacegallery.org/",
-      "title": "Morning Figure Drawing",
+      "title": "Morning Figure Drawing at Artspace",
       "date": "2026-06-16",
       "startTime": "10:30",
       "endTime": "12:30",
       "location": "Artspace",
       "address": "2833-A Hathaway Rd, Richmond, VA",
-      "cost": "$10",
+      "cost": "$10 donation",
       "costValue": 10.0,
       "url": "https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-jyzs6",
-      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours! $10 donation at the door. Open session, all skill levels welcome. Must be over 18. Limited space.",
+      "description": "Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. Chairs provided, bring your own drawing materials. Open session, all skill levels welcome. Must be over 18. Limited space \u2013 arrive promptly.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "unkindness-art",
+      "sourceUrl": "https://www.unkindnessart.com/events",
+      "title": "18+ Figure Drawing: June Session",
+      "date": "2026-06-24",
+      "startTime": "19:45",
+      "endTime": "22:00",
+      "location": "Unkindness Art",
+      "address": "2923 North Avenue, Richmond, VA 23222",
+      "cost": "$10.00",
+      "costValue": 10.0,
+      "url": "https://www.unkindnessart.com/events/nude-figure-drawing-may-2026-4r4rp",
+      "description": "Ongoing nude figure drawing series open to artists 18+. Short pose session featuring a single model. Tickets must be purchased in advance; space is limited. Valid photo ID required at door.",
       "tags": [
         "open-session",
         "nude"
@@ -194,12 +216,32 @@
       "date": "2026-06-25",
       "startTime": "18:00",
       "endTime": "20:30",
-      "location": "Hanover Arts & Activities Center",
-      "address": "500 S. Center Street, Ashland, VA 23005",
+      "location": "Hanover Arts",
+      "address": null,
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Open figure drawing studio with live model. Ages 18+. No registration required, pay $10 at the door. Runs the last Thursday of every month.",
+      "description": "Open figure drawing studio, last Thursday of each month, 18+, no registration required",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-B)",
+      "date": "2026-06-26",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788931",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
       "tags": [
         "open-session",
         "nude"
@@ -209,8 +251,50 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (S-B)",
+      "date": "2026-06-28",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788938",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-C)",
+      "date": "2026-07-03",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788932",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - July 5, 2026",
       "date": "2026-07-05",
       "startTime": "13:00",
@@ -220,7 +304,7 @@
       "cost": "$12.51",
       "costValue": 12.51,
       "url": "https://www.eventbrite.com/e/figure-drawing-open-session-july-5-2026-tickets-1979891950120",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
@@ -229,8 +313,71 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-D)",
+      "date": "2026-07-10",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788933",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (S-C)",
+      "date": "2026-07-12",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788939",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-E)",
+      "date": "2026-07-17",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788934",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - July 19, 2026",
       "date": "2026-07-19",
       "startTime": "13:00",
@@ -239,10 +386,72 @@
       "address": "320 Hull Street, Richmond, VA 23224",
       "cost": "$12.51",
       "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-july-19-2026-tickets-1979892544521",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-july-19-2026-tickets-1979892733463",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-F)",
+      "date": "2026-07-24",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788935",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (S-D)",
+      "date": "2026-07-26",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788940",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "unkindness-art",
+      "sourceUrl": "https://www.unkindnessart.com/events",
+      "title": "Drawn to Life: A Crash Course on Life Drawing",
+      "date": "2026-07-29",
+      "startTime": "19:45",
+      "endTime": "22:00",
+      "location": "Unkindness Art",
+      "address": "2923 North Avenue, Richmond, VA 23222",
+      "cost": "$10.00",
+      "costValue": 10.0,
+      "url": "https://www.unkindnessart.com/events/drawn-to-life",
+      "description": "Instructed life drawing crash course covering techniques for drawing from life and the human figure. Includes a presentation followed by a guided session with a live clothed model. All-ages event hosted by resident tattoo artist Liam Williams.",
+      "tags": [
+        "instructed"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -255,12 +464,32 @@
       "date": "2026-07-30",
       "startTime": "18:00",
       "endTime": "20:30",
-      "location": "Hanover Arts & Activities Center",
-      "address": "500 S. Center Street, Ashland, VA 23005",
+      "location": "Hanover Arts",
+      "address": null,
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Open figure drawing studio with live model. Ages 18+. No registration required, pay $10 at the door. Runs the last Thursday of every month.",
+      "description": "Open figure drawing studio, last Thursday of each month, 18+, no registration required",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-G)",
+      "date": "2026-07-31",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788936",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
       "tags": [
         "open-session",
         "nude"
@@ -270,8 +499,8 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - August 2, 2026",
       "date": "2026-08-02",
       "startTime": "13:00",
@@ -280,8 +509,8 @@
       "address": "320 Hull Street, Richmond, VA 23224",
       "cost": "$12.51",
       "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-august-2-2026-tickets-1979893138922",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-august-2-2026-tickets-1979893299155",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
@@ -290,8 +519,71 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-H)",
+      "date": "2026-08-07",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789360",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (S-E)",
+      "date": "2026-08-09",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789586",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing (F-I)",
+      "date": "2026-08-14",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Visual Arts Center of Richmond",
+      "address": "1812 W Main St, Richmond, VA 23220",
+      "cost": "$7",
+      "costValue": 7.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789361",
+      "description": "Open figure drawing session. $3 tuition + ~$4 model fee.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - August 16, 2026",
       "date": "2026-08-16",
       "startTime": "13:00",
@@ -300,8 +592,8 @@
       "address": "320 Hull Street, Richmond, VA 23224",
       "cost": "$12.51",
       "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-august-16-2026-tickets-1979893733323",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-august-16-2026-tickets-1979893652211",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
@@ -316,33 +608,12 @@
       "date": "2026-08-27",
       "startTime": "18:00",
       "endTime": "20:30",
-      "location": "Hanover Arts & Activities Center",
-      "address": "500 S. Center Street, Ashland, VA 23005",
+      "location": "Hanover Arts",
+      "address": null,
       "cost": "$10",
       "costValue": 10.0,
       "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
-      "description": "Open figure drawing studio with live model. Ages 18+. No registration required, pay $10 at the door. Runs the last Thursday of every month.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
-      "title": "Figure Drawing Open Session - September 6, 2026",
-      "date": "2026-09-06",
-      "startTime": "13:00",
-      "endTime": "16:00",
-      "location": "Art Works Inc",
-      "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-september-6-2026-tickets-1979894327724",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "description": "Open figure drawing studio, last Thursday of each month, 18+, no registration required",
       "tags": [
         "open-session"
       ],
@@ -351,8 +622,28 @@
       "instructor": null
     },
     {
-      "source": "artworks",
-      "sourceUrl": "https://artworksrva.com/rva-thriving-artists-2/",
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
+      "title": "Figure Drawing Open Session - September 6, 2026",
+      "date": "2026-09-06",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": "Art Works Inc",
+      "address": "320 Hull Street, Richmond, VA 23224",
+      "cost": "$12.51",
+      "costValue": 12.51,
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-september-6-2026-tickets-1979893827736",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "eventbrite",
+      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
       "title": "Figure Drawing Open Session - September 20, 2026",
       "date": "2026-09-20",
       "startTime": "13:00",
@@ -361,8 +652,8 @@
       "address": "320 Hull Street, Richmond, VA 23224",
       "cost": "$12.51",
       "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-september-20-2026-tickets-1979894921925",
-      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. BYOM (bring your own materials and easel). Donation pays the model's fee.",
+      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-september-20-2026-tickets-1979894168756",
+      "description": "Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.",
       "tags": [
         "open-session"
       ],
