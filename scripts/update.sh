@@ -11,6 +11,7 @@ PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 DATA_DIR="$PROJECT_DIR/site/data"
 DATA_FILE="$DATA_DIR/events.json"
 CALENDAR_FILE="$DATA_DIR/calendar.ics"
+FEED_FILE="$DATA_DIR/feed.xml"
 # Legacy prompt file kept for reference
 # PROMPT_FILE="$SCRIPT_DIR/scrape-prompt.md"
 LOG_FILE="$PROJECT_DIR/logs/scrape.log"
@@ -80,11 +81,19 @@ else
     echo "$(date '+%Y-%m-%d %H:%M:%S') - Failed to generate calendar.ics" >> "$LOG_FILE"
 fi
 
+# Generate feed.xml (RSS) for feed-reader subscription
+echo "Generating feed.xml..."
+if python3 "$SCRIPT_DIR/generate-rss.py" "$DATA_FILE" "$FEED_FILE" 2>> "$LOG_FILE"; then
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - Generated feed.xml" >> "$LOG_FILE"
+else
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - Failed to generate feed.xml" >> "$LOG_FILE"
+fi
+
 # Git commit and push (if in a git repo)
 if [ -d .git ]; then
-    if ! git diff --quiet "$DATA_FILE" "$CALENDAR_FILE" 2>/dev/null; then
+    if ! git diff --quiet "$DATA_FILE" "$CALENDAR_FILE" "$FEED_FILE" 2>/dev/null; then
         echo "Committing changes..."
-        git add "$DATA_FILE" "$CALENDAR_FILE"
+        git add "$DATA_FILE" "$CALENDAR_FILE" "$FEED_FILE"
         git commit -m "Update events $(date '+%Y-%m-%d')"
 
         if git remote -v | grep -q origin; then
