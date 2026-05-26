@@ -12,8 +12,9 @@ from pathlib import Path
 from typing import Optional
 
 from .base import BaseScraper, Event
-from .cache import get_cache, SOURCE_TTLS
+from .cache import get_cache
 
+SOURCES_FILE = Path(__file__).parent.parent / "sources.json"
 
 SCRAPE_PROMPT = '''You are scraping figure drawing events. Use Playwright to visit the URL and extract events.
 
@@ -60,6 +61,7 @@ class ClaudePlaywrightScraper(BaseScraper):
         default_location: str = "",
         default_address: str = "",
         extra_instructions: str = "",
+        default_tags: list[str] | None = None,
     ):
         super().__init__()
         self.source_id = source_id
@@ -67,7 +69,7 @@ class ClaudePlaywrightScraper(BaseScraper):
         self.default_location = default_location
         self.default_address = default_address
         self.extra_instructions = extra_instructions
-        self.default_tags = ["open-session", "nude"]
+        self.default_tags = default_tags or ["open-session", "nude"]
 
     def scrape(self) -> list[Event]:
         """Invoke Claude to scrape the page."""
@@ -79,10 +81,10 @@ class ClaudePlaywrightScraper(BaseScraper):
         try:
             # Run Claude CLI
             result = subprocess.run(
-                ["claude", "-p", prompt, "--print", "--output-format", "text"],
+                ["claude", "-p", prompt, "--print", "--output-format", "text", "--model", "sonnet"],
                 capture_output=True,
                 text=True,
-                timeout=180,
+                timeout=300,
             )
 
             if result.returncode != 0:
@@ -95,7 +97,7 @@ class ClaudePlaywrightScraper(BaseScraper):
             # Try to extract JSON from the output
             events_data = self._extract_json(output)
 
-            if not events_data:
+            if events_data is None:
                 print(f"  [{self.source_id}] No valid JSON in output")
                 return []
 
@@ -150,59 +152,19 @@ class ClaudePlaywrightScraper(BaseScraper):
         return None
 
 
-def create_visarts_scraper() -> ClaudePlaywrightScraper:
-    """Create VisArts scraper."""
+def load_sources() -> list[dict]:
+    """Load source definitions from sources.json."""
+    with open(SOURCES_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def create_scraper(source: dict) -> ClaudePlaywrightScraper:
+    """Create a scraper from a source config dict."""
     return ClaudePlaywrightScraper(
-        source_id="visarts",
-        source_url="https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
-        default_location="Visual Arts Center of Richmond",
-        default_address="1812 W Main St, Richmond, VA 23220",
-        extra_instructions="""
-Look for Figure Drawing classes. Note:
-- Cost shows "$3 tuition" but total is ~$7 with model fee
-- Extract instructor name if shown
-""",
-    )
-
-
-def create_vmfa_scraper() -> ClaudePlaywrightScraper:
-    """Create VMFA scraper."""
-    return ClaudePlaywrightScraper(
-        source_id="vmfa",
-        source_url="https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing",
-        default_location="VMFA Studio School",
-        default_address="200 N Arthur Ashe Blvd, Richmond, VA 23220",
-        extra_instructions="""
-Look for figure drawing classes in the Studio School listings.
-These are usually instructed classes, so use tags: ["instructed", "nude"]
-""",
-    )
-
-
-def create_studiotwothree_scraper() -> ClaudePlaywrightScraper:
-    """Create Studio Two Three scraper."""
-    return ClaudePlaywrightScraper(
-        source_id="studiotwothree",
-        source_url="https://www.studiotwothree.org/adult-workshops",
-        default_location="Studio Two Three",
-        default_address="3300 W Clay St, Richmond, VA 23230",
-        extra_instructions="""
-Look for events with "Figure Drawing" or "Drink & Draw" in the title.
-These are usually open sessions.
-""",
-    )
-
-
-def create_eventbrite_scraper() -> ClaudePlaywrightScraper:
-    """Create Eventbrite scraper."""
-    return ClaudePlaywrightScraper(
-        source_id="eventbrite",
-        source_url="https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-        extra_instructions="""
-Search for figure drawing events in Richmond, VA.
-For each event:
-- Click through to get full details if needed
-- Get the direct Eventbrite event URL
-- Get the venue name and address from the event details
-""",
+        source_id=source["id"],
+        source_url=source["url"],
+        default_location=source.get("location", ""),
+        default_address=source.get("address", ""),
+        extra_instructions=source.get("extraInstructions", ""),
+        default_tags=source.get("defaultTags"),
     )

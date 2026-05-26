@@ -1,0 +1,110 @@
+[
+  {
+    "id": "visarts",
+    "url": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+    "location": "Visual Arts Center of Richmond",
+    "address": "1812 W Main St, Richmond, VA 23220",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for Figure Drawing classes. Note:\n- Cost shows \"$3 tuition\" but total is ~$7 with model fee\n- Extract instructor name if shown"
+  },
+  {
+    "id": "vmfa",
+    "url": "https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing",
+    "location": "VMFA Studio School",
+    "address": "200 N Arthur Ashe Blvd, Richmond, VA 23220",
+    "defaultTags": [
+      "instructed",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for figure drawing classes in the Studio School listings.\nThese are usually instructed classes, so use tags: [\"instructed\", \"nude\"]"
+  },
+  {
+    "id": "studiotwothree",
+    "url": "https://www.studiotwothree.org/adult-workshops",
+    "location": "Studio Two Three",
+    "address": "3300 W Clay St, Richmond, VA 23230",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for events with \"Figure Drawing\" or \"Drink & Draw\" in the title.\nThese are usually open sessions."
+  },
+  {
+    "id": "artspace",
+    "url": "https://www.artspacegallery.org/",
+    "location": "Artspace",
+    "address": "0 E 4th St, Richmond, VA 23224",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for events or classes related to figure drawing or life drawing.\nCheck their events/classes page if there is one."
+  },
+  {
+    "id": "artworks",
+    "url": "https://artworksrva.com/rva-thriving-artists-2/",
+    "location": "Art Works RVA",
+    "address": "",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for figure drawing sessions and life drawing events.\nThey may link to Eventbrite for registration - if so, follow the links to get event details."
+  },
+  {
+    "id": "eventbrite",
+    "url": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
+    "location": "",
+    "address": "",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Search for figure drawing events in Richmond, VA.\nFor each event:\n- Click through to get full details if needed\n- Get the direct Eventbrite event URL\n- Get the venue name and address from the event details"
+  },
+  {
+    "id": "unkindness-art",
+    "url": "https://www.unkindnessart.com/events",
+    "location": "Unkindness Art",
+    "address": "2923 North Ave, Richmond, VA 23222",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for figure drawing or life drawing sessions. They host a recurring nude figure drawing series (18+ only) on the last Wednesday of every month from 7:45-10pm. Tickets are required and sold through their website. Note the 18+ age restriction."
+  },
+  {
+    "id": "hanover-arts",
+    "url": "https://www.hanoverarts.net/events/figure-drawing-open-studio",
+    "location": "Hanover Arts & Activities Center",
+    "address": "500 South Center St, Ashland, VA 23005",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for the Figure Drawing Open Studio event. It runs on the last Thursday of every month from 6:00 PM to 8:30 PM, $10 at the door, ages 18+, no registration required. Check the events page for upcoming dates and confirm the session is still active."
+  },
+  {
+    "id": "drink-draw-rva",
+    "url": "https://www.revelerexperiences.com/calendar",
+    "location": "R\u00e9v\u00e9ler Experiences",
+    "address": "3108 W Cary St, Richmond, VA 23221",
+    "defaultTags": [
+      "open-session",
+      "costumed"
+    ],
+    "cacheTtlHours": 24,
+    "extraInstructions": "Look for 'Drink & Draw RVA' events hosted by Brit Austin. These are monthly costumed (not nude) live model drawing sessions, typically on the 3rd Thursday of the month from 6-8PM. Admission is $15 and includes one drink and art materials. Note: some sessions may be held at alternate venues like Gallery5 (gallery5arts.org/calendar) \u2014 check both if needed."
+  }
+]

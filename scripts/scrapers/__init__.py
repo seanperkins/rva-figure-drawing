@@ -40,23 +40,15 @@ def run_all_scrapers(
     Returns:
         List of event dictionaries
     """
-    from concurrent.futures import ThreadPoolExecutor, as_completed
     from datetime import datetime
 
-    from .claude_scraper import (
-        create_visarts_scraper,
-        create_vmfa_scraper,
-        create_studiotwothree_scraper,
-        create_eventbrite_scraper,
-    )
+    from .claude_scraper import load_sources, create_scraper
 
-    # All available scrapers
-    all_scrapers = {
-        "visarts": create_visarts_scraper,
-        "vmfa": create_vmfa_scraper,
-        "studiotwothree": create_studiotwothree_scraper,
-        "eventbrite": create_eventbrite_scraper,
-    }
+    # Load source configs from sources.json
+    all_source_configs = load_sources()
+
+    # Build scraper map: source_id -> config
+    all_scrapers = {cfg["id"]: cfg for cfg in all_source_configs}
 
     # Filter to requested sources
     if sources:
@@ -78,13 +70,13 @@ def run_all_scrapers(
     cached_events = []
     scrapers_needed = []
 
-    for source_id, factory in scrapers_to_run.items():
+    for source_id, config in scrapers_to_run.items():
         cached = cache.get(source_id)
         if cached and not force_refresh:
             print(f"  [{source_id}] Using cache ({cached.age_minutes()} min old, {len(cached.events)} events)")
             cached_events.extend(cached.events)
         else:
-            scrapers_needed.append((source_id, factory))
+            scrapers_needed.append((source_id, config))
 
     if not scrapers_needed:
         print("All sources served from cache!")
@@ -94,8 +86,8 @@ def run_all_scrapers(
 
         # Run scrapers that need fresh data
         # Note: Running sequentially because Claude CLI doesn't handle parallel well
-        for source_id, factory in scrapers_needed:
-            scraper = factory()
+        for source_id, config in scrapers_needed:
+            scraper = create_scraper(config)
             try:
                 events = scraper.run()
                 all_events.extend(events)

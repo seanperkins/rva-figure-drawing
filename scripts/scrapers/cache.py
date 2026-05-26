@@ -13,17 +13,26 @@ from dataclasses import dataclass, asdict
 CACHE_DIR = Path(__file__).parent.parent.parent / ".cache"
 CACHE_FILE = CACHE_DIR / "scraper_cache.json"
 
-# Source-specific TTLs (in hours)
-# Longer TTLs for sources that update less frequently
-SOURCE_TTLS = {
-    "visarts": 24,       # Classes updated weekly
-    "studiotwothree": 24,
-    "vmfa": 48,          # Classes updated seasonally
-    "eventbrite": 12,    # Events can be added more frequently
-    "artspace": 24,
-    "artworks": 24,
-    "default": 12,
-}
+# Sources config
+SOURCES_FILE = Path(__file__).parent.parent / "sources.json"
+
+DEFAULT_TTL_HOURS = 168  # 7 days - scraper runs weekly
+
+
+def _load_source_ttls() -> dict[str, int]:
+    """Load TTLs from sources.json."""
+    ttls = {"default": DEFAULT_TTL_HOURS}
+    try:
+        with open(SOURCES_FILE, "r", encoding="utf-8") as f:
+            sources = json.load(f)
+        for source in sources:
+            ttls[source["id"]] = source.get("cacheTtlHours", DEFAULT_TTL_HOURS)
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+    return ttls
+
+
+SOURCE_TTLS = _load_source_ttls()
 
 
 @dataclass

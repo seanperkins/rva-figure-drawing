@@ -16,6 +16,9 @@ CALENDAR_FILE="$DATA_DIR/calendar.ics"
 LOG_FILE="$PROJECT_DIR/logs/scrape.log"
 LOCK_FILE="$PROJECT_DIR/.update.lock"
 
+# Load notification helper
+source "$SCRIPT_DIR/notify.sh"
+
 # Cleanup function
 cleanup() {
     rm -f "$DATA_FILE.tmp" "$LOCK_FILE"
@@ -40,6 +43,7 @@ echo "$(date '+%Y-%m-%d %H:%M:%S') - Starting scrape" >> "$LOG_FILE"
 echo "Running scraper..."
 if ! python3 "$SCRIPT_DIR/scrape.py" -o "$DATA_FILE.tmp" 2>> "$LOG_FILE"; then
     echo "$(date '+%Y-%m-%d %H:%M:%S') - Scraper failed" >> "$LOG_FILE"
+    notify_error "RVA Drawing Calendar" "Scraper failed" "$LOG_FILE"
     rm -f "$DATA_FILE.tmp"
     exit 1
 fi
@@ -50,6 +54,7 @@ if ! jq empty "$DATA_FILE.tmp" 2>/dev/null; then
     echo "$(date '+%Y-%m-%d %H:%M:%S') - Invalid JSON output" >> "$LOG_FILE"
     echo "Invalid JSON:" >> "$LOG_FILE"
     head -100 "$DATA_FILE.tmp" >> "$LOG_FILE"
+    notify_error "RVA Drawing Calendar" "Scraper produced invalid JSON" "$LOG_FILE"
     rm -f "$DATA_FILE.tmp"
     exit 1
 fi
@@ -58,6 +63,7 @@ fi
 EVENT_COUNT=$(jq '.events | length' "$DATA_FILE.tmp" 2>/dev/null || echo "0")
 if [ "$EVENT_COUNT" -lt 1 ]; then
     echo "$(date '+%Y-%m-%d %H:%M:%S') - No events found, keeping previous data" >> "$LOG_FILE"
+    notify_error "RVA Drawing Calendar" "No events found. Keeping previous data." "$LOG_FILE"
     rm -f "$DATA_FILE.tmp"
     exit 0
 fi
@@ -93,4 +99,5 @@ if [ -d .git ]; then
     fi
 fi
 
+notify "RVA Drawing Calendar" "Updated $EVENT_COUNT events successfully."
 echo "Done!"
