@@ -106,5 +106,17 @@
     ],
     "cacheTtlHours": 24,
     "extraInstructions": "Look for 'Drink & Draw RVA' events hosted by Brit Austin. These are monthly costumed (not nude) live model drawing sessions, typically on the 3rd Thursday of the month from 6-8PM. Admission is $15 and includes one drink and art materials. Note: some sessions may be held at alternate venues like Gallery5 (gallery5arts.org/calendar) \u2014 check both if needed."
+  },
+  {
+    "id": "manchester-studios-rva",
+    "url": "https://www.manchesterstudiosrva.com/upcoming-workshops.html",
+    "location": "Manchester Studios RVA",
+    "address": "Manchester Arts Community, Richmond, VA",
+    "defaultTags": [
+      "instructed",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for figure drawing and portrait drawing workshops. This studio focuses on Classical Realism methods and offers intensive multi-day workshops with live models covering figure, portrait, anatomy, and drawing. Workshops may be sporadic rather than recurring \u2014 capture any upcoming figure or portrait drawing workshops with dates, times, cost, and instructor."
   }
 ]
