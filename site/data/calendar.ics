@@ -7,18 +7,8 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-06-04-1800-drink-draw-rva@rvafiguredrawing
-DTSTAMP:20260604T141708Z
-DTSTART:20260604T180000
-DTEND:20260604T200000
-SUMMARY:Community Care Night: Fat Figure Drawing
-LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
-DESCRIPTION:Fat figure drawing\, drinks\, and connection before the opening night of Make Space\, a group exhibition celebrating fat artists and creators. Bring your own materials (very limited amount provided).\\n\\nCost: Free\\n\\nRegister: https://gallery5arts.org/calendar/fat-figure-drawing
-URL:https://gallery5arts.org/calendar/fat-figure-drawing
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-06-09-1800-artspace@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260609T180000
 DTEND:20260609T203000
 SUMMARY:Evening Figure Drawing
@@ -28,7 +18,7 @@ URL:https://www.artspacegallery.org/upcoming-events/evening-figure-drawing-7xxeb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-16-1030-artspace@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260616T103000
 DTEND:20260616T123000
 SUMMARY:Morning Figure Drawing at Artspace on June 16\, 2026
@@ -38,7 +28,7 @@ URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-ar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-24-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260624T194500
 DTEND:20260624T220000
 SUMMARY:18+ Figure Drawing: June Session
@@ -48,7 +38,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-may-2026-4r4rp
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-25-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260625T180000
 DTEND:20260625T203000
 SUMMARY:Figure Drawing Open Studio
@@ -58,7 +48,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-13-1000-manchester-studios-rva@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260713T100000
 DTEND:20260713T173000
 SUMMARY:The Alchemy Of Expression: Portrait Sculpture Workshop
@@ -68,7 +58,7 @@ URL:https://www.manchesterstudiosrva.com/upcoming-workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260729T194500
 DTEND:20260729T220000
 SUMMARY:Drawn to Life: A Crash Course on Life Drawing
@@ -78,7 +68,7 @@ URL:https://www.unkindnessart.com/events/drawn-to-life
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260730T180000
 DTEND:20260730T203000
 SUMMARY:Figure Drawing Open Studio
@@ -88,7 +78,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260827T180000
 DTEND:20260827T203000
 SUMMARY:Figure Drawing Open Studio
@@ -98,7 +88,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260604T141708Z
+DTSTAMP:20260607T120501Z
 DTSTART:20260924T180000
 DTEND:20260924T203000
 SUMMARY:Figure Drawing Open Studio

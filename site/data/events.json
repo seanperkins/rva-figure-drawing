@@ -1,27 +1,6 @@
 {
-  "lastUpdated": "2026-06-04T14:17:08Z",
+  "lastUpdated": "2026-06-07T12:05:01Z",
   "events": [
-    {
-      "source": "drink-draw-rva",
-      "sourceUrl": "https://www.revelerexperiences.com/calendar",
-      "title": "Community Care Night: Fat Figure Drawing",
-      "date": "2026-06-04",
-      "startTime": "18:00",
-      "endTime": "20:00",
-      "location": "Gallery5",
-      "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "Free",
-      "costValue": 0,
-      "url": "https://gallery5arts.org/calendar/fat-figure-drawing",
-      "description": "Fat figure drawing, drinks, and connection before the opening night of Make Space, a group exhibition celebrating fat artists and creators. Bring your own materials (very limited amount provided).",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
     {
       "source": "artspace",
       "sourceUrl": "https://www.artspacegallery.org/",
