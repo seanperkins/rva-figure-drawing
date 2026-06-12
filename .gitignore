@@ -11,6 +11,9 @@ data/scrape.log
 __pycache__/
 *.pyc
 
+# Playwright MCP console logs/screenshots
+.playwright-mcp/
+
 # Editor
 .vscode/
 .idea/
