@@ -23,13 +23,23 @@ source "$SCRIPT_DIR/notify.sh"
 # Cleanup function
 cleanup() {
     rm -f "$DATA_FILE.tmp" "$LOCK_FILE"
+    # Scraper subprocesses leave the agent-browser daemon + headless Chromium running
+    command -v agent-browser >/dev/null 2>&1 && agent-browser close >/dev/null 2>&1 || true
 }
 trap cleanup EXIT
 
-# Check for lock file (prevent concurrent runs)
+# Check for lock file (prevent concurrent runs); auto-clear if stale (>6h)
+STALE_LOCK_SECONDS=21600
 if [ -f "$LOCK_FILE" ]; then
-    echo "Another update is already running (lock file exists)"
-    exit 1
+    LOCK_AGE=$(( $(date +%s) - $(stat -f %m "$LOCK_FILE" 2>/dev/null || echo 0) ))
+    if [ "$LOCK_AGE" -gt "$STALE_LOCK_SECONDS" ]; then
+        echo "Stale lock found (${LOCK_AGE}s old), removing"
+        echo "$(date '+%Y-%m-%d %H:%M:%S') - Cleared stale lock (${LOCK_AGE}s)" >> "$LOG_FILE"
+        rm -f "$LOCK_FILE"
+    else
+        echo "Another update is already running (lock ${LOCK_AGE}s old)"
+        exit 1
+    fi
 fi
 touch "$LOCK_FILE"
 
