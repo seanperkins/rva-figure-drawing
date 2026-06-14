@@ -7,83 +7,113 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-06-16-1030-artspace@rvafiguredrawing
-DTSTAMP:20260611T120047Z
-DTSTART:20260616T103000
-DTEND:20260616T123000
-SUMMARY:Morning Figure Drawing at Artspace on June 16\, 2026
-LOCATION:Artspace\, 2833-A Hathaway Rd.\, Richmond\, VA 23225
-DESCRIPTION:Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours. Open session\, all skill levels welcome. Must be over 18. Chairs provided\; bring your own drawing materials/board/easel.\\n\\nCost: $10 donation\\n\\nRegister: https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-jyzs6
-URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-jyzs6
+UID:2026-06-14-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260614T122949Z
+DTSTART:20260614T130000
+DTEND:20260614T160000
+SUMMARY:Figure Drawing Open Session - June 14\, 2026
+LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
+DESCRIPTION:Open figure drawing session hosted by RVA Thriving Artists at Art Works. Bring your own materials and easel. Donation pays the model's fee.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-june-14-2026-tickets-1979891337287
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-june-14-2026-tickets-1979891337287
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-17-1800-eventbrite@rvafiguredrawing
+DTSTAMP:20260614T122949Z
+DTSTART:20260617T180000
+DTEND:20260617T200000
+SUMMARY:June Queer Life Drawing
+LOCATION:Gold Lion Community Cafe\, 1012 Hull Street\, Richmond\, VA 23224
+DESCRIPTION:Chill vibe life drawing session celebrating queer bodies and creativity. All skill levels welcome. Suggested donation $10 pay now or at the door.\\n\\nCost: Donation\\n\\nRegister: https://www.eventbrite.com/e/june-queer-life-drawing-tickets-1990660169153
+URL:https://www.eventbrite.com/e/june-queer-life-drawing-tickets-1990660169153
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-24-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260611T120047Z
+DTSTAMP:20260614T122949Z
 DTSTART:20260624T194500
 DTEND:20260624T220000
 SUMMARY:18+ Figure Drawing: June Session
 LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:Ongoing nude figure drawing series open to all artists 18 and over. June session is a short pose session featuring a single model — ideal for fast\, gestural sketches. Tickets required\; no door tickets. 18+ only with valid photo ID required.\\n\\nCost: $10.00\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-may-2026-4r4rp
+DESCRIPTION:Ongoing nude figure drawing series open to all artists 18+. Short pose session with a single model. Tickets required\, no door sales. Must show valid photo ID.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-may-2026-4r4rp
 URL:https://www.unkindnessart.com/events/nude-figure-drawing-may-2026-4r4rp
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-25-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260611T120047Z
+DTSTAMP:20260614T122949Z
 DTSTART:20260625T180000
 DTEND:20260625T203000
 SUMMARY:Figure Drawing Open Studio
 LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Open figure drawing with a live model in a relaxed\, supportive environment. Artists of all levels welcome. Bring your own drawing materials\; tables and chairs provided. No registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
+DESCRIPTION:Figure drawing open studio with a live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
 URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-13-1000-manchester-studios-rva@rvafiguredrawing
-DTSTAMP:20260611T120047Z
+DTSTAMP:20260614T122949Z
 DTSTART:20260713T100000
 DTEND:20260713T173000
-SUMMARY:The Alchemy Of Expression: Portrait Sculpture Workshop
+SUMMARY:The Alchemy Of Expression - Portrait Sculpture Workshop
 LOCATION:Manchester Studios RVA\, 1300 West Main Street\, Richmond\, Virginia 23220
-DESCRIPTION:Two-week portrait sculpture workshop (July 13-17 and July 20-24\, 2026). Instructed by Constance Bowden using Classical Realism methods. Covers skull anatomy\, muscles\, cartilage\, fat pads\, and portrait from life. Days 4-10 working from a live model. All materials and model fees included. All skill levels welcome. Register via Zelle to ConstanceBowden@yahoo.com.\\n\\nCost: $1600\\n\\nRegister: https://www.manchesterstudiosrva.com/upcoming-workshops
-URL:https://www.manchesterstudiosrva.com/upcoming-workshops
+DESCRIPTION:Two-week portrait sculpture workshop (July 13-17 and July 20-24\, 2026). Classical Realism methods working from a live model. Covers skull\, muscles\, anatomy\, facial fat pads\, and likeness development. Hours: 10am-1pm and 2:30-5:30pm daily. All materials and model fees included. All skill levels welcome. Register via Zelle to ConstanceBowden@yahoo.com.\\n\\nCost: $1600\\n\\nRegister: https://manchesterstudiosrva.com/upcoming-workshops/
+URL:https://manchesterstudiosrva.com/upcoming-workshops/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260611T120047Z
+DTSTAMP:20260614T122949Z
 DTSTART:20260729T194500
 DTEND:20260729T220000
 SUMMARY:Drawn to Life: A Crash Course on Life Drawing
 LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:All-ages crash course on life drawing covering techniques for drawing from life and the human figure. Includes a presentation\, break\, and guided figure drawing session with a live clothed model. Hosted by resident tattoo artist Liam Williams. Tickets required\; no door tickets.\\n\\nCost: $10.00\\n\\nRegister: https://www.unkindnessart.com/events/drawn-to-life
+DESCRIPTION:All-ages crash course on life drawing. Presentation on drawing from life followed by a guided figure drawing session with a live clothed model. Hosted by resident tattoo artist Liam Williams.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/drawn-to-life
 URL:https://www.unkindnessart.com/events/drawn-to-life
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260611T120047Z
+DTSTAMP:20260614T122949Z
 DTSTART:20260730T180000
 DTEND:20260730T203000
 SUMMARY:Figure Drawing Open Studio
 LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Open figure drawing with a live model in a relaxed\, supportive environment. Artists of all levels welcome. Bring your own drawing materials\; tables and chairs provided. No registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
+DESCRIPTION:Figure drawing open studio with a live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
 URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260611T120047Z
+DTSTAMP:20260614T122949Z
 DTSTART:20260827T180000
 DTEND:20260827T203000
 SUMMARY:Figure Drawing Open Studio
 LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Open figure drawing with a live model in a relaxed\, supportive environment. Artists of all levels welcome. Bring your own drawing materials\; tables and chairs provided. No registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
+DESCRIPTION:Figure drawing open studio with a live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
 URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260611T120047Z
+DTSTAMP:20260614T122949Z
 DTSTART:20260924T180000
 DTEND:20260924T203000
 SUMMARY:Figure Drawing Open Studio
 LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Open figure drawing with a live model in a relaxed\, supportive environment. Artists of all levels welcome. Bring your own drawing materials\; tables and chairs provided. No registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
+DESCRIPTION:Figure drawing open studio with a live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
+URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-1800-hanover-arts@rvafiguredrawing
+DTSTAMP:20260614T122949Z
+DTSTART:20261029T180000
+DTEND:20261029T203000
+SUMMARY:Figure Drawing Open Studio
+LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
+DESCRIPTION:Figure drawing open studio with a live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
+URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-1800-hanover-arts@rvafiguredrawing
+DTSTAMP:20260614T122949Z
+DTSTART:20261126T180000
+DTEND:20261126T203000
+SUMMARY:Figure Drawing Open Studio
+LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
+DESCRIPTION:Figure drawing open studio with a live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
 URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 END:VCALENDAR
