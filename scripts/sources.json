@@ -118,5 +118,17 @@
     ],
     "cacheTtlHours": 168,
     "extraInstructions": "Look for figure drawing and portrait drawing workshops. This studio focuses on Classical Realism methods and offers intensive multi-day workshops with live models covering figure, portrait, anatomy, and drawing. Workshops may be sporadic rather than recurring \u2014 capture any upcoming figure or portrait drawing workshops with dates, times, cost, and instructor."
+  },
+  {
+    "id": "gold-lion-rva",
+    "url": "https://www.goldlionrva.com/",
+    "location": "Gold Lion Community Cafe",
+    "address": "1012 Hull St, Richmond, VA 23224",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Look for 'Queer Life Drawing' events hosted by RVA Thriving Artists. These are periodic figure drawing sessions with live queer-identified models in a community cafe event space. Check their events page and any calendar or upcoming events section. Sessions typically run about 2 hours in the evening with a $10 suggested donation. Also check their Instagram (@goldlionrva) or Facebook for event announcements if the website calendar is sparse."
   }
 ]
