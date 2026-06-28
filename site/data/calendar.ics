@@ -7,18 +7,8 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-06-25-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260625T122707Z
-DTSTART:20260625T180000
-DTEND:20260625T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Figure Drawing Open Studio with live model. Bring your own drawing materials—tables and chairs provided. Ages 18+\, no registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-08-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20260708T180000
 DTEND:20260708T210000
 SUMMARY:Figure Drawing - 7/8
@@ -28,7 +18,7 @@ URL:https://www.studiotwothree.org/classes/p/figure-drawing-78
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-13-1000-manchester-studios-rva@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20260713T100000
 DTEND:20260713T173000
 SUMMARY:The Alchemy Of Expression – Portrait Sculpture Workshop
@@ -38,7 +28,7 @@ URL:https://manchesterstudiosrva.com/upcoming-workshops/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20260730T180000
 DTEND:20260730T203000
 SUMMARY:Figure Drawing Open Studio
@@ -48,7 +38,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20260827T180000
 DTEND:20260827T203000
 SUMMARY:Figure Drawing Open Studio
@@ -58,7 +48,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20260924T180000
 DTEND:20260924T203000
 SUMMARY:Figure Drawing Open Studio
@@ -68,7 +58,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20261029T180000
 DTEND:20261029T203000
 SUMMARY:Figure Drawing Open Studio
@@ -78,7 +68,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20261126T180000
 DTEND:20261126T203000
 SUMMARY:Figure Drawing Open Studio
@@ -88,7 +78,7 @@ URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260625T122707Z
+DTSTAMP:20260628T120605Z
 DTSTART:20261231T180000
 DTEND:20261231T203000
 SUMMARY:Figure Drawing Open Studio
