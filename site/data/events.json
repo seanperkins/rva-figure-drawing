@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T14:28:49Z",
+  "lastUpdated": "2026-07-09T13:15:48Z",
   "events": [
     {
       "source": "eventbrite",
@@ -63,18 +63,18 @@
       "instructor": null
     },
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "July Queer Life Drawing",
+      "source": "gold-lion-rva",
+      "sourceUrl": "https://www.goldlionrva.com/",
+      "title": "Queer Life Drawing",
       "date": "2026-07-15",
       "startTime": "18:00",
       "endTime": "20:00",
       "location": "Gold Lion Community Cafe",
-      "address": "1012 Hull Street, Richmond, VA 23224",
-      "cost": "Suggested donation $10 (pay what you can)",
-      "costValue": 10,
-      "url": "https://www.eventbrite.com/e/july-queer-life-drawing-tickets-1992927036414",
-      "description": "Chill life drawing session celebrating queer bodies and creativity. Suggested donation $10, pay what you can.",
+      "address": "1012 Hull St, Richmond, VA 23224",
+      "cost": "$10 suggested donation",
+      "costValue": 10.0,
+      "url": "https://www.goldlionrva.com/events",
+      "description": "Queer Life Drawing hosted by RVA Thriving Artists \u2014 periodic figure drawing session with live queer-identified models in the community cafe event space.",
       "tags": [
         "open-session"
       ],
@@ -124,6 +124,26 @@
       "instructor": null
     },
     {
+      "source": "gold-lion-rva",
+      "sourceUrl": "https://www.goldlionrva.com/",
+      "title": "Queer Life Drawing",
+      "date": "2026-08-19",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Gold Lion Community Cafe",
+      "address": "1012 Hull St, Richmond, VA 23224",
+      "cost": "$10 suggested donation",
+      "costValue": 10.0,
+      "url": "https://www.goldlionrva.com/events",
+      "description": "Queer Life Drawing hosted by RVA Thriving Artists \u2014 periodic figure drawing session with live queer-identified models in the community cafe event space.",
+      "tags": [
+        "open-session"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "unkindness-art",
       "sourceUrl": "https://www.unkindnessart.com/events",
       "title": "Fursuit Figure Drawing",
@@ -160,6 +180,26 @@
       "tags": [
         "open-session",
         "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "gold-lion-rva",
+      "sourceUrl": "https://www.goldlionrva.com/",
+      "title": "Queer Life Drawing",
+      "date": "2026-09-16",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Gold Lion Community Cafe",
+      "address": "1012 Hull St, Richmond, VA 23224",
+      "cost": "$10 suggested donation",
+      "costValue": 10.0,
+      "url": "https://www.goldlionrva.com/events",
+      "description": "Queer Life Drawing hosted by RVA Thriving Artists \u2014 periodic figure drawing session with live queer-identified models in the community cafe event space.",
+      "tags": [
+        "open-session"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
