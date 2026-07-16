@@ -7,38 +7,108 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-07-15-1800-eventbrite@rvafiguredrawing
-DTSTAMP:20260712T120100Z
-DTSTART:20260715T180000
-DTEND:20260715T200000
-SUMMARY:July Queer Life Drawing
-LOCATION:Gold Lion Community Cafe\, 1012 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Chill life drawing session celebrating queer bodies and creativity. Suggested donation $10\, pay what you can.\\n\\nCost: Suggested donation $10 (pay what you can)\\n\\nRegister: https://www.eventbrite.com/e/july-queer-life-drawing-tickets-1992927036414
-URL:https://www.eventbrite.com/e/july-queer-life-drawing-tickets-1992927036414
+UID:2026-07-17-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260717T183000
+DTEND:20260717T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788934
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788934
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-19-1300-eventbrite@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260719T130000
+DTEND:20260719T160000
+SUMMARY:Figure Drawing Open Session - July 19\, 2026
+LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
+DESCRIPTION:RVA Thriving Artists is hosting an open figure drawing session at Art Works. Bring your own materials and easel. Donation pays the model's fee.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-july-19-2026-tickets-1979892733463
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-july-19-2026-tickets-1979892733463
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-21-1030-artspace@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260721T103000
+DTEND:20260721T123000
+SUMMARY:Morning Figure Drawing at Artspace
+LOCATION:Artspace\, 2833-A Hathaway Rd.\, Richmond\, VA 23225
+DESCRIPTION:Figure Drawing sessions every third Tuesday of the month. Draw a live model for 2 hours! $10 donation at the door. Chairs provided. Bring your own drawing materials/board/easel. Open session. All skill levels welcome. Must be over 18.\\n\\nCost: $10\\n\\nRegister: https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-jyzs6-wfbgg
+URL:https://www.artspacegallery.org/upcoming-events/morning-figure-drawing-at-artspace-march-5xs8d-bwatp-nlkap-6jlcf-fsxet-63hw3-sz6kp-mybdb-jyzs6-wfbgg
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260724T183000
+DTEND:20260724T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788935
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788935
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-26-1000-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260726T100000
+DTEND:20260726T123000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788940
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788940
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-29-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260712T120100Z
+DTSTAMP:20260716T122158Z
 DTSTART:20260729T194500
 DTEND:20260729T220000
 SUMMARY:Drawn to Life: A Crash Course on Life Drawing
-LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222\, United States
-DESCRIPTION:A crash course for newer/casual artists on drawing from life\, including a guided figure drawing session with a live clothed model. All-ages event\, replacing the usual monthly nude figure drawing session this July.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/drawn-to-life
+LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
+DESCRIPTION:This month's session substitutes the regular monthly figure drawing class with a crash course for newer/casual artists: a presentation on drawing from life followed by a guided figure drawing session with a live clothed model. All ages.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/drawn-to-life
 URL:https://www.unkindnessart.com/events/drawn-to-life
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-30-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260712T120100Z
-DTSTART:20260730T180000
-DTEND:20260730T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Figure Drawing Open Studio with live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+\, no registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+UID:2026-07-31-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260731T183000
+DTEND:20260731T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788936
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6788936
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-07-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260807T183000
+DTEND:20260807T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789360
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789360
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-09-1000-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260809T100000
+DTEND:20260809T123000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789586
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789586
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-14-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260814T183000
+DTEND:20260814T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789361
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/6789361
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-19-1800-gold-lion-rva@rvafiguredrawing
-DTSTAMP:20260712T120100Z
+DTSTAMP:20260716T122158Z
 DTSTART:20260819T180000
 DTEND:20260819T200000
 SUMMARY:Queer Life Drawing
@@ -48,27 +118,47 @@ URL:https://www.goldlionrva.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260712T120100Z
+DTSTAMP:20260716T122158Z
 DTSTART:20260826T194500
 DTEND:20260826T220000
 SUMMARY:Fursuit Figure Drawing
-LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222\, United States
-DESCRIPTION:Short-pose figure drawing session with 2-3 full-suited furry models. All-ages event\, replacing the usual monthly nude figure drawing session this August.\\n\\nCost: $15\\n\\nRegister: https://www.unkindnessart.com/events/fursuit-figure-drawing
+LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
+DESCRIPTION:This month's session substitutes the regular monthly figure drawing class with 2-3 fursuit-suited models striking short-pose gestural poses. All ages\, no furry experience required.\\n\\nCost: $15\\n\\nRegister: https://www.unkindnessart.com/events/fursuit-figure-drawing
 URL:https://www.unkindnessart.com/events/fursuit-figure-drawing
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-27-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260712T120100Z
-DTSTART:20260827T180000
-DTEND:20260827T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Figure Drawing Open Studio with live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+\, no registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+UID:2026-09-10-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260910T130000
+DTEND:20260910T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056865
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056865
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260911T183000
+DTEND:20260911T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056873
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056873
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13-1000-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260913T100000
+DTEND:20260913T123000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056880
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056880
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-1800-gold-lion-rva@rvafiguredrawing
-DTSTAMP:20260712T120100Z
+DTSTAMP:20260716T122158Z
 DTSTART:20260916T180000
 DTEND:20260916T200000
 SUMMARY:Queer Life Drawing
@@ -77,43 +167,233 @@ DESCRIPTION:Queer Life Drawing hosted by RVA Thriving Artists — periodic figur
 URL:https://www.goldlionrva.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260712T120100Z
-DTSTART:20260924T180000
-DTEND:20260924T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Figure Drawing Open Studio with live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+\, no registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+UID:2026-09-17-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260917T130000
+DTEND:20260917T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056866
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056866
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-29-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260712T120100Z
-DTSTART:20261029T180000
-DTEND:20261029T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Figure Drawing Open Studio with live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+\, no registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+UID:2026-09-18-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260918T183000
+DTEND:20260918T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056874
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056874
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-26-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260712T120100Z
-DTSTART:20261126T180000
-DTEND:20261126T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Figure Drawing Open Studio with live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+\, no registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+UID:2026-09-24-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260924T130000
+DTEND:20260924T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056867
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056867
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-31-1800-hanover-arts@rvafiguredrawing
-DTSTAMP:20260712T120100Z
-DTSTART:20261231T180000
-DTEND:20261231T203000
-SUMMARY:Figure Drawing Open Studio
-LOCATION:Hanover Arts & Activities Center\, 500 South Center Street\, Ashland\, VA 23005
-DESCRIPTION:Figure Drawing Open Studio with live model in a relaxed\, supportive environment. Bring your own drawing materials—tables and chairs provided. Ages 18+\, no registration required.\\n\\nCost: $10\\n\\nRegister: https://www.hanoverarts.net/events/figure-drawing-open-studio
-URL:https://www.hanoverarts.net/events/figure-drawing-open-studio
+UID:2026-09-25-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260925T183000
+DTEND:20260925T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056875
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056875
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-27-1000-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260927T100000
+DTEND:20260927T123000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056881
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056881
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-1945-unkindness-art@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20260930T194500
+DTEND:20260930T220000
+SUMMARY:Nude Figure Drawing at Unkindness Art
+LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
+DESCRIPTION:Ongoing nude figure drawing series\, 18+ only\, valid photo ID required at the door. September session features a single model in a short-pose format for fast gestural sketching.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-at-unkindness-art
+URL:https://www.unkindnessart.com/events/nude-figure-drawing-at-unkindness-art
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261001T130000
+DTEND:20261001T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056868
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056868
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261002T183000
+DTEND:20261002T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056876
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056876
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261008T130000
+DTEND:20261008T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056869
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056869
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261009T183000
+DTEND:20261009T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056877
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056877
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-11-1000-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261011T100000
+DTEND:20261011T123000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056882
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056882
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261015T130000
+DTEND:20261015T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056870
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056870
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261016T183000
+DTEND:20261016T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056878
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056878
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261022T130000
+DTEND:20261022T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056871
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056871
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261023T183000
+DTEND:20261023T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056879
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056879
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-25-1000-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261025T100000
+DTEND:20261025T123000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056883
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056883
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261029T130000
+DTEND:20261029T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056872
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056872
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261030T183000
+DTEND:20261030T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056889
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056889
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261105T130000
+DTEND:20261105T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056892
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056892
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261106T183000
+DTEND:20261106T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056890
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056890
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-1000-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261108T100000
+DTEND:20261108T123000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056888
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056888
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-1300-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261112T130000
+DTEND:20261112T153000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056893
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056893
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-1830-visarts@rvafiguredrawing
+DTSTAMP:20260716T122158Z
+DTSTART:20261113T183000
+DTEND:20261113T210000
+SUMMARY:Open Figure Drawing
+LOCATION:Drawing East (Visual Arts Center of Richmond)\, 1812 West Main Street\, Richmond\, VA 23220
+DESCRIPTION:Open figure drawing session with a live\, nude model. No instruction provided\; studio monitor guides the session.\\n\\nCost: $3 tuition + $12 model fee\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056891
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056891
 END:VEVENT
 END:VCALENDAR
