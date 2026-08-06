@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T12:01:45Z",
+  "lastUpdated": "2026-08-06T12:00:18Z",
   "events": [
     {
       "source": "gold-lion-rva",
@@ -20,69 +20,6 @@
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
-      "instructor": null
-    },
-    {
-      "source": "studiotwothree",
-      "sourceUrl": "https://www.studiotwothree.org/adult-workshops",
-      "title": "Figure Drawing - 8/26",
-      "date": "2026-08-26",
-      "startTime": "18:00",
-      "endTime": "21:00",
-      "location": "Studio Two Three",
-      "address": "109 W 15th St, Richmond, VA 23224",
-      "cost": "$20",
-      "costValue": 20.0,
-      "url": "https://www.studiotwothree.org/classes/p/figure-drawing-826",
-      "description": "3-hour figure drawing workshop with a professional nude model, poses called by Carter Helmandollar (gestural, short, and long poses). Bring your own materials; some extra paper/pencils/clipboards available. No photography permitted.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "studiotwothree",
-      "sourceUrl": "https://www.studiotwothree.org/adult-workshops",
-      "title": "Figure Drawing - 9/23",
-      "date": "2026-09-23",
-      "startTime": "18:00",
-      "endTime": "21:00",
-      "location": "Studio Two Three",
-      "address": "109 W 15th St, Richmond, VA 23224",
-      "cost": "$20",
-      "costValue": 20.0,
-      "url": "https://www.studiotwothree.org/classes/p/figure-drawing-923",
-      "description": "3-hour figure drawing workshop with a professional nude model, poses called by Carter Helmandollar (gestural, short, and long poses). Bring your own materials; some extra paper/pencils/clipboards available. No photography permitted.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "unkindness-art",
-      "sourceUrl": "https://www.unkindnessart.com/events",
-      "title": "Nude Figure Drawing at Unkindness Art",
-      "date": "2026-09-30",
-      "startTime": "19:45",
-      "endTime": "22:00",
-      "location": "Unkindness Art",
-      "address": "2923 North Avenue, Richmond, VA 23222",
-      "cost": "$10",
-      "costValue": 10.0,
-      "url": "https://www.unkindnessart.com/events/nude-figure-drawing-at-unkindness-art",
-      "description": "Ongoing nude figure drawing series (18+ only, valid photo ID required at door) on the last Wednesday of every month, 7:45-10pm. September session is a short-pose session with a single model. Tickets nonrefundable and must be purchased in advance; no guaranteed door tickets. Late entry not allowed once session starts at 8pm.",
-      "tags": [
-        "open-session",
-        "nude"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
       "instructor": null
     }
   ]
