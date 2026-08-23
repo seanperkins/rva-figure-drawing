@@ -130,5 +130,17 @@
     ],
     "cacheTtlHours": 168,
     "extraInstructions": "Look for 'Queer Life Drawing' events hosted by RVA Thriving Artists. These are periodic figure drawing sessions with live queer-identified models in a community cafe event space. Check their events page and any calendar or upcoming events section. Sessions typically run about 2 hours in the evening with a $10 suggested donation. Also check their Instagram (@goldlionrva) or Facebook for event announcements if the website calendar is sparse."
+  },
+  {
+    "id": "vcu-open-figure-drawing",
+    "url": "https://www.facebook.com/Open-Figure-Drawing-at-VCU-602797393140892/",
+    "location": "VCUarts Franklin Terrace",
+    "address": "812-814 W Franklin St, Richmond, VA 23284",
+    "defaultTags": [
+      "open-session",
+      "nude"
+    ],
+    "cacheTtlHours": 168,
+    "extraInstructions": "Weekly open figure drawing session held Tuesday evenings, 6:30-9:00 PM, at VCUarts' Franklin Terrace live drawing studio. Drop-in, ~$7 at the door, no instruction provided (studio monitor only). Also check their Instagram @open.figure for current schedule/cancellations if Facebook events are sparse."
   }
 ]
