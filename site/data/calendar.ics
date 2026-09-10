@@ -7,18 +7,8 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-09-06-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
-DTSTART:20260906T130000
-DTEND:20260906T160000
-SUMMARY:Figure Drawing Open Session - September 6\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:RVA Thriving Artists open figure drawing session at Art Works. Bring your own materials and easel\; donation pays the model's fee.\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-september-6-2026-tickets-1979893827736
-URL:https://www.eventbrite.com/e/figure-drawing-open-session-september-6-2026-tickets-1979893827736
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-11-1800-vcu-open-figure-drawing@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20260911T180000
 DTEND:20260911T210000
 SUMMARY:Open Figure Drawing at VCU
@@ -28,7 +18,7 @@ URL:https://www.instagram.com/open.figure/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-1800-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20260916T180000
 DTEND:20260916T200000
 SUMMARY:Queer Life Drawing September 2026
@@ -37,8 +27,18 @@ DESCRIPTION:Chill life drawing session celebrating queer bodies and creativity\,
 URL:https://www.eventbrite.com/e/queer-life-drawing-september-2026-tickets-1999722602134
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-16-1900-gold-lion-rva@rvafiguredrawing
+DTSTAMP:20260910T120335Z
+DTSTART:20260916T190000
+DTEND:20260916T210000
+SUMMARY:Queer Life Drawing
+LOCATION:Gold Lion Community Cafe\, 1012 Hull St\, Richmond\, VA 23224
+DESCRIPTION:Periodic figure drawing session hosted by RVA Thriving Artists with a live queer-identified model\, at Gold Lion Community Cafe. Time is an estimate based on typical session pattern (evening\, ~2 hours)\; site listing did not include a specific time.\\n\\nCost: $10 suggested donation\\n\\nRegister: https://www.goldlionrva.com/events
+URL:https://www.goldlionrva.com/events
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-18-1800-vcu-open-figure-drawing@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20260918T180000
 DTEND:20260918T210000
 SUMMARY:Open Figure Drawing at VCU
@@ -48,7 +48,7 @@ URL:https://www.instagram.com/open.figure/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-20-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20260920T130000
 DTEND:20260920T160000
 SUMMARY:Figure Drawing Open Session - September 20\, 2026
@@ -58,7 +58,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-september-20-2026-t
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20260923T180000
 DTEND:20260923T210000
 SUMMARY:Figure Drawing - 9/23
@@ -68,7 +68,7 @@ URL:https://www.studiotwothree.org/classes/p/figure-drawing-923
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-1800-vcu-open-figure-drawing@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20260925T180000
 DTEND:20260925T210000
 SUMMARY:Open Figure Drawing at VCU
@@ -78,7 +78,7 @@ URL:https://www.instagram.com/open.figure/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20260930T194500
 DTEND:20260930T220000
 SUMMARY:Nude Figure Drawing: September Session (short pose)
@@ -88,7 +88,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-september-edition
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-1800-vcu-open-figure-drawing@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261002T180000
 DTEND:20261002T210000
 SUMMARY:Open Figure Drawing at VCU
@@ -98,7 +98,7 @@ URL:https://www.instagram.com/open.figure/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261004T130000
 DTEND:20261004T160000
 SUMMARY:Figure Drawing Open Session - October 4\, 2026
@@ -108,7 +108,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-october-4-2026-tick
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-1000-vmfa@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261017T100000
 DTEND:20261017T160000
 SUMMARY:Figure Drawing Workshop
@@ -118,7 +118,7 @@ URL:https://www.vmfa.museum/classes/figure-drawing-workshop-29
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261018T130000
 DTEND:20261018T160000
 SUMMARY:Figure Drawing Open Session - October 18\, 2026
@@ -128,7 +128,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-october-18-2026-tic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261028T194500
 DTEND:20261028T220000
 SUMMARY:Nude Figure Drawing: Halloween Edition!
@@ -138,7 +138,7 @@ URL:https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261101T130000
 DTEND:20261101T160000
 SUMMARY:Figure Drawing Open Session - November 1\, 2026
@@ -148,7 +148,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-1-2026-tic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261115T130000
 DTEND:20261115T160000
 SUMMARY:Figure Drawing Open Session - November 15\, 2026
@@ -158,7 +158,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-15-2026-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261206T130000
 DTEND:20261206T160000
 SUMMARY:Figure Drawing Open Session - December 6\, 2026
@@ -168,7 +168,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-december-6-2026-tic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20260906T122241Z
+DTSTAMP:20260910T120335Z
 DTSTART:20261220T130000
 DTEND:20261220T160000
 SUMMARY:Figure Drawing Open Session - December 20\, 2026
