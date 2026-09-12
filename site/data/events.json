@@ -1,47 +1,25 @@
 {
-  "lastUpdated": "2026-09-10T12:03:35Z",
+  "lastUpdated": "2026-09-12T23:39:29Z",
   "events": [
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "Figure Drawing Open Session - September 6, 2026",
-      "date": "2026-09-06",
-      "startTime": "13:00",
-      "endTime": "16:00",
-      "location": "Art Works Inc",
-      "address": "320 Hull Street, Richmond, VA 23224",
-      "cost": "$12.51",
-      "costValue": 12.51,
-      "url": "https://www.eventbrite.com/e/figure-drawing-open-session-september-6-2026-tickets-1979893827736",
-      "description": "RVA Thriving Artists open figure drawing session at Art Works. Bring your own materials and easel; donation pays the model's fee.",
-      "tags": [
-        "open-session",
-        "nude",
-        "costumed"
-      ],
-      "status": "confirmed",
-      "registrationStatus": "available",
-      "instructor": null
-    },
-    {
-      "source": "vcu-open-figure-drawing",
-      "sourceUrl": "https://www.facebook.com/Open-Figure-Drawing-at-VCU-602797393140892/",
-      "title": "Open Figure Drawing at VCU",
-      "date": "2026-09-11",
-      "startTime": "18:00",
-      "endTime": "21:00",
-      "location": "Open Figure Drawing at VCU",
-      "address": "940 West Grace St, Richmond, VA",
-      "cost": "Free",
-      "costValue": 0,
-      "url": "https://www.instagram.com/open.figure/",
-      "description": "Weekly drop-in figure drawing session, free and open to VCU students, faculty, and alumni. No instruction provided, studio monitor only.",
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-09-13",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056880",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
       "tags": [
         "open-session",
         "nude"
       ],
       "status": "confirmed",
-      "registrationStatus": "available",
+      "registrationStatus": "waitlist",
       "instructor": null
     },
     {
@@ -65,23 +43,24 @@
       "instructor": null
     },
     {
-      "source": "gold-lion-rva",
-      "sourceUrl": "https://www.goldlionrva.com/",
-      "title": "Queer Life Drawing",
-      "date": "2026-09-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "location": "Gold Lion Community Cafe",
-      "address": "1012 Hull St, Richmond, VA 23224",
-      "cost": "$10 suggested donation",
-      "costValue": 10,
-      "url": "https://www.goldlionrva.com/events",
-      "description": "Periodic figure drawing session hosted by RVA Thriving Artists with a live queer-identified model, at Gold Lion Community Cafe. Time is an estimate based on typical session pattern (evening, ~2 hours); site listing did not include a specific time.",
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-09-17",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056866",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
       "tags": [
-        "open-session"
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
-      "registrationStatus": "unknown",
+      "registrationStatus": "waitlist",
       "instructor": null
     },
     {
@@ -97,6 +76,27 @@
       "costValue": 0,
       "url": "https://www.instagram.com/open.figure/",
       "description": "Weekly drop-in figure drawing session, free and open to VCU students, faculty, and alumni. No instruction provided, studio monitor only.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-09-18",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056874",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
       "tags": [
         "open-session",
         "nude"
@@ -135,17 +135,38 @@
       "startTime": "18:00",
       "endTime": "21:00",
       "location": "Studio Two Three",
-      "address": "109 W 15th St Richmond, VA 23224",
+      "address": "109 W 15th St, Richmond, VA 23224",
       "cost": "$20",
       "costValue": 20.0,
       "url": "https://www.studiotwothree.org/classes/p/figure-drawing-923",
-      "description": "3-hour figure drawing workshop with a professional nude model, poses called by instructor Carter Helmandollar (short gestures through longer poses). Bring your own materials; extra paper/pencils/clipboards available. No photography permitted.",
+      "description": "3-hour nude figure drawing workshop with a professional model; poses called by artist Carter Helmandollar, from short gestures to longer poses. Bring your own materials.",
       "tags": [
         "open-session",
         "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-09-24",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056867",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "waitlist",
       "instructor": null
     },
     {
@@ -170,6 +191,48 @@
       "instructor": null
     },
     {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-09-25",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056875",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-09-27",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056881",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "waitlist",
+      "instructor": null
+    },
+    {
       "source": "unkindness-art",
       "sourceUrl": "https://www.unkindnessart.com/events",
       "title": "Nude Figure Drawing: September Session (short pose)",
@@ -178,16 +241,37 @@
       "endTime": "22:00",
       "location": "Unkindness Art",
       "address": "2923 North Avenue, Richmond, VA 23222",
-      "cost": "$10",
+      "cost": "$10.00",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-september-edition",
-      "description": "18+ nude figure drawing session with a short-pose single model. Tickets required in advance; valid photo ID required at entry.",
+      "description": "Ongoing nude figure drawing series (18+ only). Short pose session featuring a single model. Tickets required in advance, nonrefundable; photo ID required at entry.",
       "tags": [
         "open-session",
         "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-01",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056868",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "waitlist",
       "instructor": null
     },
     {
@@ -203,6 +287,27 @@
       "costValue": 0,
       "url": "https://www.instagram.com/open.figure/",
       "description": "Weekly drop-in figure drawing session, free and open to VCU students, faculty, and alumni. No instruction provided, studio monitor only.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-02",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056876",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
       "tags": [
         "open-session",
         "nude"
@@ -234,24 +339,150 @@
       "instructor": null
     },
     {
-      "source": "vmfa",
-      "sourceUrl": "https://vmfa.museum/calendar/classes/?fwp_keywords=figure%20drawing",
-      "title": "Figure Drawing Workshop",
-      "date": "2026-10-17",
-      "startTime": "10:00",
-      "endTime": "16:00",
-      "location": "VMFA Studio School",
-      "address": "200 N Arthur Ashe Boulevard, Richmond, VA 23220",
-      "cost": "$95",
-      "costValue": 95.0,
-      "url": "https://www.vmfa.museum/classes/figure-drawing-workshop-29",
-      "description": "Studio class exploring the human form; working from a live model to create expressive portraits in charcoal and pencil. Instructor: Amy Smith.",
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-08",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056869",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
       "tags": [
-        "instructed",
+        "open-session",
         "nude"
       ],
       "status": "confirmed",
-      "registrationStatus": "sold-out",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "vcu-open-figure-drawing",
+      "sourceUrl": "https://www.facebook.com/Open-Figure-Drawing-at-VCU-602797393140892/",
+      "title": "Open Figure Drawing at VCU",
+      "date": "2026-10-09",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "location": "Open Figure Drawing at VCU",
+      "address": "940 West Grace St, Richmond, VA",
+      "cost": "Free",
+      "costValue": 0,
+      "url": "https://www.instagram.com/open.figure/",
+      "description": "Weekly drop-in figure drawing session, free and open to VCU students, faculty, and alumni. No instruction provided, studio monitor only.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-09",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056877",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056882",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-15",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056870",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "vcu-open-figure-drawing",
+      "sourceUrl": "https://www.facebook.com/Open-Figure-Drawing-at-VCU-602797393140892/",
+      "title": "Open Figure Drawing at VCU",
+      "date": "2026-10-16",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "location": "Open Figure Drawing at VCU",
+      "address": "940 West Grace St, Richmond, VA",
+      "cost": "Free",
+      "costValue": 0,
+      "url": "https://www.instagram.com/open.figure/",
+      "description": "Weekly drop-in figure drawing session, free and open to VCU students, faculty, and alumni. No instruction provided, studio monitor only.",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-16",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056878",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
       "instructor": null
     },
     {
@@ -277,6 +508,69 @@
       "instructor": null
     },
     {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-22",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056871",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "waitlist",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-23",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056879",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-25",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056883",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
       "source": "unkindness-art",
       "sourceUrl": "https://www.unkindnessart.com/events",
       "title": "Nude Figure Drawing: Halloween Edition!",
@@ -285,14 +579,56 @@
       "endTime": "22:00",
       "location": "Unkindness Art",
       "address": "2923 North Avenue, Richmond, VA 23222",
-      "cost": "$10",
+      "cost": "$10.00",
       "costValue": 10.0,
       "url": "https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition",
-      "description": "18+ nude figure drawing long-pose session with a partially costumed Halloween-themed model. Last session of 2026 before the winter break. Tickets required in advance; valid photo ID required at entry.",
+      "description": "Ongoing nude figure drawing series (18+ only). Halloween-themed long pose session with a partially costumed model; still involves nudity. Last figure drawing session of 2026 before winter break. Tickets required in advance, nonrefundable; photo ID required at entry.",
       "tags": [
         "open-session",
-        "nude",
-        "costumed"
+        "costumed",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-29",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056872",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "waitlist",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-10-30",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056889",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
       ],
       "status": "confirmed",
       "registrationStatus": "available",
@@ -318,6 +654,111 @@
       ],
       "status": "confirmed",
       "registrationStatus": "unknown",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-11-05",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056892",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "waitlist",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-11-06",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056890",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "12:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056888",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-11-12",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056893",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Mary Beth Beasley). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "waitlist",
+      "instructor": null
+    },
+    {
+      "source": "visarts",
+      "sourceUrl": "https://www.visarts.org/classes/?fwp_classes_duration=open-figure-draw-paint",
+      "title": "Figure Drawing",
+      "date": "2026-11-13",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Drawing East (Visual Arts Center of Richmond)",
+      "address": "1812 West Main Street, Richmond, VA 23220",
+      "cost": "$15",
+      "costValue": 15.0,
+      "url": "https://app.amilia.com/store/en/visual-arts-richmond/shop/activities/7056891",
+      "description": "Open figure drawing session with a live, nude model, guided by a studio monitor (Salis Dembling). No instruction provided; bring your own materials (easels, stools, and tables available).",
+      "tags": [
+        "open-session",
+        "nude"
+      ],
+      "status": "confirmed",
+      "registrationStatus": "available",
       "instructor": null
     },
     {
