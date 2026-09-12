@@ -19,3 +19,6 @@ __pycache__/
 .idea/
 *.swp
 *~
+
+# Per-source scrape temp files
+/.tmp-*.json
