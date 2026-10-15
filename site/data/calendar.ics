@@ -7,43 +7,33 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-10-14-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20261015T034543Z
-DTSTART:20261014T180000
-DTEND:20261014T210000
-SUMMARY:Figure Drawing - 10/14
-LOCATION:Studio Two Three\, 109 W 15th St\, Richmond\, VA 23224
-DESCRIPTION:3 hour figure drawing workshop with a professional nude model. Instructor Carter Helmandollar calls the poses\, from gestural to long poses. Bring your own materials. No photography.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/classes/p/figure-drawing
-URL:https://www.studiotwothree.org/classes/p/figure-drawing
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-17-1000-vmfa@rvafiguredrawing
-DTSTAMP:20261015T034543Z
+DTSTAMP:20261015T042651Z
 DTSTART:20261017T100000
 DTEND:20261017T160000
 SUMMARY:Figure Drawing Workshop [29]
 LOCATION:VMFA Studio School\, 200 N Arthur Ashe Boulevard\, Richmond\, VA 23220
-DESCRIPTION:Explore drawings of the human form by other artists\, then work from a live model with instructor Amy Smith to create expressive portraits in charcoal and pencil. Prerequisite: basic drawing skills.\\n\\nCost: Member $80 / Adult $95\\n\\nRegister: https://www.vmfa.museum/classes/figure-drawing-workshop-29
+DESCRIPTION:One-session workshop. Explore drawings of the human form by other artists\, then work from a live model to create expressive portraits in charcoal and pencil. Instructor: Amy Smith. Prerequisite: basic drawing skills.\\n\\nCost: $95 (Member $80)\\n\\nRegister: https://www.vmfa.museum/classes/figure-drawing-workshop-29
 URL:https://www.vmfa.museum/classes/figure-drawing-workshop-29
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-18-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20261015T034543Z
-DTSTART:20261018T130000
-DTEND:20261018T160000
-SUMMARY:Figure Drawing Open Session - October 18\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Session\\n\\nCost: Free\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-october-18-2026-tickets-1979894796634
-URL:https://www.eventbrite.com/e/figure-drawing-open-session-october-18-2026-tickets-1979894796634
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-21-1800-eventbrite@rvafiguredrawing
-DTSTAMP:20261015T034543Z
+UID:2026-10-21-1800-gold-lion-rva@rvafiguredrawing
+DTSTAMP:20261015T042651Z
 DTSTART:20261021T180000
 DTEND:20261021T200000
-SUMMARY:October Queer Life Drawing
-LOCATION:Gold Lion Community Cafe\, 1012 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Chill vibe life drawing sesh celebrating queer bodies and creativity\, come draw and hang out in person!\\n\\nCost: Suggested donation $10\\n\\nRegister: https://www.eventbrite.com/e/october-queer-life-drawing-tickets-1995983509407
-URL:https://www.eventbrite.com/e/october-queer-life-drawing-tickets-1995983509407
+SUMMARY:Queer Life Drawing
+LOCATION:Gold Lion Community Cafe\, 1012 Hull Street\, Richmond\, VA
+DESCRIPTION:Queer Life Drawing at Gold Lion Community Cafe\, hosted by RVA Thriving Artists. Figure drawing with live queer-identified models.\\n\\nCost: $10 suggested donation\\n\\nRegister: https://www.goldlionrva.com/events
+URL:https://www.goldlionrva.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-1945-unkindness-art@rvafiguredrawing
+DTSTAMP:20261015T042651Z
+DTSTART:20261028T194500
+DTEND:20261028T220000
+SUMMARY:Nude Figure Drawing: Halloween Edition!
+LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
+DESCRIPTION:Long-pose nude figure drawing session with a single partially costumed model\, Halloween themed. 18+ only\, valid photo ID required. Tickets must be bought in advance\, are nonrefundable\, and there is no late entry after the 8:00 pm start. This is the last session of 2026 before the winter break.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition
+URL:https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition
 END:VEVENT
 END:VCALENDAR
