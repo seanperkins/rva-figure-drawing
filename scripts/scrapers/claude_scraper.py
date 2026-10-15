@@ -16,7 +16,7 @@ from .cache import get_cache
 
 SOURCES_FILE = Path(__file__).parent.parent / "sources.json"
 
-SCRAPE_PROMPT = '''You are scraping figure drawing events. Use Playwright to visit the URL and extract events.
+SCRAPE_PROMPT = '''You are scraping figure drawing events. Use the ml:scrape skill to visit the URL and extract events; it drives the agent-browser CLI. Do not use Playwright.
 
 Visit: {url}
 
@@ -81,15 +81,14 @@ class ClaudePlaywrightScraper(BaseScraper):
         try:
             # Run Claude CLI
             result = subprocess.run(
-                ["claude", "-p", prompt, "--print", "--output-format", "text", "--model", "sonnet"],
+                ["onecli", "run", "--", "claude", "-p", prompt, "--print", "--output-format", "text", "--model", "sonnet"],
                 capture_output=True,
                 text=True,
                 timeout=300,
             )
 
             if result.returncode != 0:
-                print(f"  [{self.source_id}] Claude error: {result.stderr}")
-                return []
+                raise RuntimeError(f"Claude error: {result.stderr.strip() or result.stdout.strip()}")
 
             # Parse JSON output
             output = result.stdout.strip()
@@ -98,8 +97,7 @@ class ClaudePlaywrightScraper(BaseScraper):
             events_data = self._extract_json(output)
 
             if events_data is None:
-                print(f"  [{self.source_id}] No valid JSON in output")
-                return []
+                raise RuntimeError("No valid JSON in output")
 
             # Convert to Event objects
             events = []
@@ -125,12 +123,10 @@ class ClaudePlaywrightScraper(BaseScraper):
 
             return events
 
-        except subprocess.TimeoutExpired:
-            print(f"  [{self.source_id}] Claude timed out")
-            return []
-        except Exception as e:
-            print(f"  [{self.source_id}] Error: {e}")
-            return []
+        # Failures raise rather than returning [] so BaseScraper.run() doesn't
+        # cache them as a valid empty result.
+        except subprocess.TimeoutExpired as e:
+            raise RuntimeError("Claude timed out") from e
 
     def _extract_json(self, text: str) -> Optional[list]:
         """Extract JSON array from text output."""
