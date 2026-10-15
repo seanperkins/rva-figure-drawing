@@ -102,8 +102,8 @@ Rules:
 '
 
 echo "Searching for new sources..."
-RESULT=$(claude -p "$PROMPT" --print --output-format text --model sonnet 2>> "$LOG_FILE") || {
-    echo "$(date '+%Y-%m-%d %H:%M:%S') - Claude failed" >> "$LOG_FILE"
+RESULT=$(onecli run -- claude -p "$PROMPT" --print --output-format text --model sonnet 2>> "$LOG_FILE") || {
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - Claude failed: $RESULT" >> "$LOG_FILE"
     notify_error "RVA Drawing Calendar" "Source discovery failed" "$LOG_FILE"
     exit 1
 }
