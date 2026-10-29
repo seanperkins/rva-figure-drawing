@@ -7,28 +7,8 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-10-25-1000-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
-DTSTART:20261025T100000
-DTEND:20261025T123000
-SUMMARY:Figure Drawing (S-D)
-LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Sundays 10am-12:30pm\, Fall 2026.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-28-1945-unkindness-art@rvafiguredrawing
-DTSTAMP:20261025T120033Z
-DTSTART:20261028T194500
-DTEND:20261028T220000
-SUMMARY:Nude Figure Drawing: Halloween Edition!
-LOCATION:Unkindness Art\, 2923 North Avenue\, Richmond\, VA 23222
-DESCRIPTION:Long-pose nude figure drawing session with a single partially costumed model. 18+ only with valid photo ID. Tickets required and nonrefundable\, purchased in advance on the event page. Drawing starts promptly at 8:00 pm with no late entry. This is the last session of 2026 before the winter break.\\n\\nCost: $10\\n\\nRegister: https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition
-URL:https://www.unkindnessart.com/events/nude-figure-drawing-halloween-edition
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-29-1300-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261029T130000
 DTEND:20261029T153000
 SUMMARY:Figure Drawing (TH-H)
@@ -38,7 +18,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?day
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-1830-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261030T183000
 DTEND:20261030T210000
 SUMMARY:Figure Drawing (F-H)
@@ -48,7 +28,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?day
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261101T130000
 DTEND:20261101T160000
 SUMMARY:Figure Drawing Open Session - November 1\, 2026
@@ -58,7 +38,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-1-2026-tic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-1300-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261105T130000
 DTEND:20261105T153000
 SUMMARY:Figure Drawing (TH-I)
@@ -68,7 +48,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?day
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-1830-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261106T183000
 DTEND:20261106T210000
 SUMMARY:Figure Drawing (F-I)
@@ -78,7 +58,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?day
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-1000-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261108T100000
 DTEND:20261108T123000
 SUMMARY:Figure Drawing (S-E)
@@ -88,7 +68,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?day
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-1300-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261112T130000
 DTEND:20261112T153000
 SUMMARY:Figure Drawing (TH-J)
@@ -98,7 +78,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?day
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-1830-visarts@rvafiguredrawing
-DTSTAMP:20261025T120033Z
+DTSTAMP:20261029T120048Z
 DTSTART:20261113T183000
 DTEND:20261113T210000
 SUMMARY:Figure Drawing (F-J)
