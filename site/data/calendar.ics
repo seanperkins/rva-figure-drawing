@@ -7,83 +7,103 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-10-29-1300-visarts@rvafiguredrawing
-DTSTAMP:20261029T120048Z
-DTSTART:20261029T130000
-DTEND:20261029T153000
-SUMMARY:Figure Drawing (TH-H)
-LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Thursdays 1-3:30pm\, Fall 2026. Session is full\; waitlist available.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-30-1830-visarts@rvafiguredrawing
-DTSTAMP:20261029T120048Z
-DTSTART:20261030T183000
-DTEND:20261030T210000
-SUMMARY:Figure Drawing (F-H)
-LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Fridays 6:30-9pm\, Fall 2026.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-01-1300-eventbrite@rvafiguredrawing
-DTSTAMP:20261029T120048Z
+UID:2026-11-01-1300-artworks@rvafiguredrawing
+DTSTAMP:20261101T131129Z
 DTSTART:20261101T130000
 DTEND:20261101T160000
 SUMMARY:Figure Drawing Open Session - November 1\, 2026
 LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Session\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-november-1-2026-tickets-1979895515785
+DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-november-1-2026-tickets-1979895515785
 URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-1-2026-tickets-1979895515785
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-1300-visarts@rvafiguredrawing
-DTSTAMP:20261029T120048Z
+DTSTAMP:20261101T131129Z
 DTSTART:20261105T130000
 DTEND:20261105T153000
 SUMMARY:Figure Drawing (TH-I)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Thursdays 1-3:30pm\, Fall 2026. Session is full\; waitlist available.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
+DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-1830-visarts@rvafiguredrawing
-DTSTAMP:20261029T120048Z
+DTSTAMP:20261101T131129Z
 DTSTART:20261106T183000
 DTEND:20261106T210000
 SUMMARY:Figure Drawing (F-I)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Fridays 6:30-9pm\, Fall 2026.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
+DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-1000-visarts@rvafiguredrawing
-DTSTAMP:20261029T120048Z
+DTSTAMP:20261101T131129Z
 DTSTART:20261108T100000
 DTEND:20261108T123000
 SUMMARY:Figure Drawing (S-E)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Sundays 10am-12:30pm\, Fall 2026.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
+DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-1300-visarts@rvafiguredrawing
-DTSTAMP:20261029T120048Z
+DTSTAMP:20261101T131129Z
 DTSTART:20261112T130000
 DTEND:20261112T153000
 SUMMARY:Figure Drawing (TH-J)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Thursdays 1-3:30pm\, Fall 2026. Session is full\; waitlist available.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
+DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-1830-visarts@rvafiguredrawing
-DTSTAMP:20261029T120048Z
+DTSTAMP:20261101T131129Z
 DTSTART:20261113T183000
 DTEND:20261113T210000
 SUMMARY:Figure Drawing (F-J)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Fridays 6:30-9pm\, Fall 2026.\\n\\nCost: ~$7 ($3 tuition + model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
-URL:https://app.amilia.com/store/en/visual-arts-richmond/api/Activity/Search?days=0&textCriteria=figure
+DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-1300-artworks@rvafiguredrawing
+DTSTAMP:20261101T131129Z
+DTSTART:20261115T130000
+DTEND:20261115T160000
+SUMMARY:Figure Drawing Open Session - November 15\, 2026
+LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
+DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-november-15-2026-tickets-1979897312158
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-15-2026-tickets-1979897312158
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-1800-studiotwothree@rvafiguredrawing
+DTSTAMP:20261101T131129Z
+DTSTART:20261116T180000
+DTEND:20261116T210000
+SUMMARY:Figure Drawing Night
+LOCATION:Studio Two Three\, 109 W 15th St\, Richmond\, VA 23224
+DESCRIPTION:3-hour figure drawing workshop with a professional nude model. Instructor Carter Helmandollar calls gestural\, short and long poses. Bring your own materials\; extra paper\, pencils and clipboards are available. No photography during the model session.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/classes/p/figure-drawing-night
+URL:https://www.studiotwothree.org/classes/p/figure-drawing-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-1300-artworks@rvafiguredrawing
+DTSTAMP:20261101T131129Z
+DTSTART:20261206T130000
+DTEND:20261206T160000
+SUMMARY:Figure Drawing Open Session - December 6\, 2026
+LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
+DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-december-6-2026-tickets-1979898020276
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-december-6-2026-tickets-1979898020276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-1300-artworks@rvafiguredrawing
+DTSTAMP:20261101T131129Z
+DTSTART:20261220T130000
+DTEND:20261220T160000
+SUMMARY:Figure Drawing Open Session - December 20\, 2026
+LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
+DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-december-20-2026-tickets-1979903053330
+URL:https://www.eventbrite.com/e/figure-drawing-open-session-december-20-2026-tickets-1979903053330
 END:VEVENT
 END:VCALENDAR
