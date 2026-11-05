@@ -7,18 +7,8 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-11-01-1300-artworks@rvafiguredrawing
-DTSTAMP:20261101T131129Z
-DTSTART:20261101T130000
-DTEND:20261101T160000
-SUMMARY:Figure Drawing Open Session - November 1\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-november-1-2026-tickets-1979895515785
-URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-1-2026-tickets-1979895515785
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-05-1300-visarts@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261105T130000
 DTEND:20261105T153000
 SUMMARY:Figure Drawing (TH-I)
@@ -28,7 +18,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-1830-visarts@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261106T183000
 DTEND:20261106T210000
 SUMMARY:Figure Drawing (F-I)
@@ -38,7 +28,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-1000-visarts@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261108T100000
 DTEND:20261108T123000
 SUMMARY:Figure Drawing (S-E)
@@ -48,7 +38,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-1300-visarts@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261112T130000
 DTEND:20261112T153000
 SUMMARY:Figure Drawing (TH-J)
@@ -58,7 +48,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-1830-visarts@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261113T183000
 DTEND:20261113T210000
 SUMMARY:Figure Drawing (F-J)
@@ -68,7 +58,7 @@ URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-1300-artworks@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261115T130000
 DTEND:20261115T160000
 SUMMARY:Figure Drawing Open Session - November 15\, 2026
@@ -78,7 +68,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-15-2026-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261116T180000
 DTEND:20261116T210000
 SUMMARY:Figure Drawing Night
@@ -88,7 +78,7 @@ URL:https://www.studiotwothree.org/classes/p/figure-drawing-night
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-1300-artworks@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261206T130000
 DTEND:20261206T160000
 SUMMARY:Figure Drawing Open Session - December 6\, 2026
@@ -98,7 +88,7 @@ URL:https://www.eventbrite.com/e/figure-drawing-open-session-december-6-2026-tic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-1300-artworks@rvafiguredrawing
-DTSTAMP:20261101T131129Z
+DTSTAMP:20261105T130033Z
 DTSTART:20261220T130000
 DTEND:20261220T160000
 SUMMARY:Figure Drawing Open Session - December 20\, 2026
