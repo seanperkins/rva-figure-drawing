@@ -7,73 +7,93 @@ X-WR-CALNAME:RVA Figure Drawing
 X-WR-CALDESC:Figure drawing sessions in Richmond, VA
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-11-08-1000-visarts@rvafiguredrawing
-DTSTAMP:20261108T130027Z
-DTSTART:20261108T100000
-DTEND:20261108T123000
-SUMMARY:Figure Drawing (S-E)
+UID:2026-12-03-1900-drink-draw-rva@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20261203T190000
+DTEND:20261203T220000
+SUMMARY:Community Care Night: Winter Witch Drink & Draw with RVA Krampusnacht | 18+
+LOCATION:Gallery5\, 200 West Marshall Street\, Richmond\, VA 23220
+DESCRIPTION:RVA Drink & Draw live costumed model drawing hosted by Brit Austin Art. Model Catleesi appears as Frau Perchta\, the winter witch. Supplies provided and a bar is on site. Doors at 7 PM.\\n\\nCost: Free (suggested donation $5-10)\\n\\nRegister: https://gallery5arts.org/calendar/community-care-night-winter-witch-drink-draw-with-rva-krampusnacht
+URL:https://gallery5arts.org/calendar/community-care-night-winter-witch-drink-draw-with-rva-krampusnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270112T183000
+DTEND:20270112T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 1 of 8)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
-URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-12-1300-visarts@rvafiguredrawing
-DTSTAMP:20261108T130027Z
-DTSTART:20261112T130000
-DTEND:20261112T153000
-SUMMARY:Figure Drawing (TH-J)
+UID:2027-01-19-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270119T183000
+DTEND:20270119T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 2 of 8)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
-URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-13-1830-visarts@rvafiguredrawing
-DTSTAMP:20261108T130027Z
-DTSTART:20261113T183000
-DTEND:20261113T210000
-SUMMARY:Figure Drawing (F-J)
+UID:2027-01-26-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270126T183000
+DTEND:20270126T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 3 of 8)
 LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
-DESCRIPTION:Open figure drawing session with live model. Instructor not listed.\\n\\nCost: $3 tuition (~$7 total with model fee)\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
-URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/128459
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-15-1300-artworks@rvafiguredrawing
-DTSTAMP:20261108T130027Z
-DTSTART:20261115T130000
-DTEND:20261115T160000
-SUMMARY:Figure Drawing Open Session - November 15\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-november-15-2026-tickets-1979897312158
-URL:https://www.eventbrite.com/e/figure-drawing-open-session-november-15-2026-tickets-1979897312158
+UID:2027-02-02-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270202T183000
+DTEND:20270202T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 4 of 8)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-16-1800-studiotwothree@rvafiguredrawing
-DTSTAMP:20261108T130027Z
-DTSTART:20261116T180000
-DTEND:20261116T210000
-SUMMARY:Figure Drawing Night
-LOCATION:Studio Two Three\, 109 W 15th St\, Richmond\, VA 23224
-DESCRIPTION:3-hour figure drawing workshop with a professional nude model. Instructor Carter Helmandollar calls gestural\, short and long poses. Bring your own materials\; extra paper\, pencils and clipboards are available. No photography during the model session.\\n\\nCost: $20\\n\\nRegister: https://www.studiotwothree.org/classes/p/figure-drawing-night
-URL:https://www.studiotwothree.org/classes/p/figure-drawing-night
+UID:2027-02-09-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270209T183000
+DTEND:20270209T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 5 of 8)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-06-1300-artworks@rvafiguredrawing
-DTSTAMP:20261108T130027Z
-DTSTART:20261206T130000
-DTEND:20261206T160000
-SUMMARY:Figure Drawing Open Session - December 6\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-december-6-2026-tickets-1979898020276
-URL:https://www.eventbrite.com/e/figure-drawing-open-session-december-6-2026-tickets-1979898020276
+UID:2027-02-16-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270216T183000
+DTEND:20270216T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 6 of 8)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-20-1300-artworks@rvafiguredrawing
-DTSTAMP:20261108T130027Z
-DTSTART:20261220T130000
-DTEND:20261220T160000
-SUMMARY:Figure Drawing Open Session - December 20\, 2026
-LOCATION:Art Works Inc\, 320 Hull Street\, Richmond\, VA 23224
-DESCRIPTION:Open Figure Drawing Session hosted by RVA Thriving Artists\\n\\nCost: $12.51\\n\\nRegister: https://www.eventbrite.com/e/figure-drawing-open-session-december-20-2026-tickets-1979903053330
-URL:https://www.eventbrite.com/e/figure-drawing-open-session-december-20-2026-tickets-1979903053330
+UID:2027-02-23-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270223T183000
+DTEND:20270223T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 7 of 8)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-1830-visarts@rvafiguredrawing
+DTSTAMP:20261119T130033Z
+DTSTART:20270302T183000
+DTEND:20270302T210000
+SUMMARY:Introduction to the Figure with Tommy Van Auken (Week 8 of 8)
+LOCATION:Visual Arts Center of Richmond\, 1812 W Main St\, Richmond\, VA 23220
+DESCRIPTION:Instructed 8-week figure drawing class (Intermediate to Advanced)\, Tuesdays Jan 12 - Mar 2\, 2027. Instructor: Tommy Van Auken. $300 is the full-series price.\\n\\nCost: $300\\n\\nRegister: https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
+URL:https://app.amilia.com/store/en/visual-arts-richmond/shop/programs/138667
 END:VEVENT
 END:VCALENDAR
