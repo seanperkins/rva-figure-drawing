@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-11-22T13:12:30Z",
+  "lastUpdated": "2026-11-26T13:00:42Z",
   "events": [
     {
-      "source": "eventbrite",
-      "sourceUrl": "https://www.eventbrite.com/d/va--richmond/figure-drawing/",
-      "title": "Community Care Night: Winter Witch Drink & Draw with RVA Krampusnacht",
+      "source": "drink-draw-rva",
+      "sourceUrl": "https://www.revelerexperiences.com/calendar",
+      "title": "Community Care Night: Winter Witch Drink & Draw with RVA Krampusnacht | 18+",
       "date": "2026-12-03",
       "startTime": "19:00",
       "endTime": "22:00",
       "location": "Gallery5",
       "address": "200 West Marshall Street, Richmond, VA 23220",
-      "cost": "Free",
+      "cost": "Free (suggested donation $5-10)",
       "costValue": null,
-      "url": "https://www.eventbrite.com/e/community-care-night-winter-witch-drink-draw-with-rva-krampusnacht-registration-2004962458686",
-      "description": "Draw live model Frau Perchta, portrayed by Catleesi, with RVA Drink & Draw and RVA Krampusnacht for Gallery5's December Community Care Night.",
+      "url": "https://gallery5arts.org/calendar/community-care-night-winter-witch-drink-draw-with-rva-krampusnacht",
+      "description": "RVA Drink & Draw, hosted by Brit Austin, with RVA Krampusnacht. Live costumed model Catleesi as Frau Perchta. Doors at 7pm, programming at 7:15pm. Supplies provided, bar on site.",
       "tags": [
         "open-session",
         "costumed"
